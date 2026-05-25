@@ -1,0 +1,26 @@
+motel.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_body
+	bounds: 303, 125, 317, 827
+1_boobs
+	bounds: 1926, 1850, 186, 91
+	rotate: 90
+1_eye_closed_1
+	bounds: 1926, 1837, 17, 11
+1_eye_closed_2
+	bounds: 622, 374, 17, 12
+2_body
+	bounds: 2, 35, 299, 917
+2_eye_closed_1
+	bounds: 2, 21, 18, 12
+2_eye_closed_2
+	bounds: 1021, 939, 16, 13
+3_body
+	bounds: 622, 388, 397, 564
+3_eye_closed_1
+	bounds: 303, 112, 19, 11
+3_eye_closed_2
+	bounds: 2019, 2025, 17, 11
+bg
+	bounds: 2, 954, 1922, 1082

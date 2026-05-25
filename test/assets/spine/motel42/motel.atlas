@@ -1,0 +1,36 @@
+motel.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+man2
+	bounds: 2, 121, 450, 901
+man2_2
+	bounds: 454, 114, 337, 908
+man2_dick
+	bounds: 148, 2, 50, 137
+	rotate: 90
+man2_eye_closed_1
+	bounds: 862, 602, 17, 13
+man2_eye_closed_2
+	bounds: 2, 17, 16, 12
+man2_hand_L_1
+	bounds: 793, 617, 132, 125
+man2_hand_L_2
+	bounds: 148, 54, 65, 149
+	rotate: 90
+man2_hand_L_2_2
+	bounds: 793, 303, 65, 149
+man2_hand_L_3
+	bounds: 932, 760, 80, 99
+man2_hand_R_1
+	bounds: 932, 861, 67, 161
+man2_hand_R_1_1
+	bounds: 793, 454, 67, 161
+man2_hand_R_2
+	bounds: 793, 884, 137, 138
+man2_hand_R_2_2
+	bounds: 793, 744, 137, 138
+man2_hand_R_3
+	bounds: 299, 39, 80, 98
+	rotate: 90
+man2_pants
+	bounds: 2, 31, 144, 88

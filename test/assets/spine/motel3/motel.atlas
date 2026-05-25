@@ -1,0 +1,23 @@
+motel.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_body
+	bounds: 2, 16, 299, 917
+2_eye_closed_1
+	bounds: 303, 33, 18, 12
+2_eye_closed_2
+	bounds: 629, 360, 16, 13
+block_3_2_body
+	bounds: 629, 375, 229, 558
+block_3_2_eyeclosed_1
+	bounds: 860, 923, 15, 10
+block_3_2_eyeclosed_2
+	bounds: 1930, 1988, 13, 10
+block_3_3_BG
+	bounds: 2, 935, 1926, 1078
+block_3_3_body
+	bounds: 303, 47, 324, 886
+block_3_3_eyeclosed_1
+	bounds: 1930, 2000, 21, 13
+block_3_3_eyeclosed_2
+	bounds: 2, 2, 19, 12
