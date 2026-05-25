@@ -1,0 +1,185 @@
+block_1_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_body
+	bounds: 1018, 300, 440, 664
+	offsets: 6, 0, 446, 664
+1_hand_R
+	bounds: 1841, 319, 137, 162
+	offsets: 2, 1, 140, 164
+	rotate: 90
+1_hands
+	bounds: 2, 54, 428, 126
+	offsets: 0, 0, 428, 132
+1_legs
+	bounds: 547, 266, 469, 698
+	offsets: 24, 64, 496, 764
+2_body
+	bounds: 1460, 295, 379, 669
+2_legs
+	bounds: 2, 182, 543, 782
+	offsets: 16, 25, 570, 808
+Lighting/Lighting_003
+	bounds: 432, 98, 61, 82
+	offsets: 277, 363, 960, 540
+Lighting/Lighting_004
+	bounds: 432, 98, 61, 82
+	offsets: 277, 363, 960, 540
+Lighting/Lighting_007
+	bounds: 547, 2, 248, 262
+	offsets: 269, 180, 960, 540
+Lighting/Lighting_008
+	bounds: 547, 2, 248, 262
+	offsets: 269, 180, 960, 540
+Lighting/Lighting_009
+	bounds: 1321, 3, 328, 290
+	offsets: 271, 153, 960, 540
+Lighting/Lighting_010
+	bounds: 1321, 3, 328, 290
+	offsets: 271, 153, 960, 540
+Lighting/Lighting_011
+	bounds: 1651, 10, 325, 283
+	offsets: 270, 154, 960, 540
+Lighting/Lighting_012
+	bounds: 1651, 10, 325, 283
+	offsets: 270, 154, 960, 540
+Lighting/Lighting_035
+	bounds: 797, 5, 327, 259
+	offsets: 356, 99, 960, 540
+Lighting/Lighting_036
+	bounds: 797, 5, 327, 259
+	offsets: 356, 99, 960, 540
+Lighting/Lighting_041
+	bounds: 1841, 661, 303, 199
+	offsets: 365, 116, 960, 540
+	rotate: 90
+Lighting/Lighting_042
+	bounds: 1841, 661, 303, 199
+	offsets: 365, 116, 960, 540
+	rotate: 90
+Lighting/Lighting_043
+	bounds: 1126, 2, 296, 193
+	offsets: 365, 122, 960, 540
+	rotate: 90
+Lighting/Lighting_044
+	bounds: 1126, 2, 296, 193
+	offsets: 365, 122, 960, 540
+	rotate: 90
+bgf
+	bounds: 2, 966, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+c_back
+	bounds: 1924, 1722, 324, 89
+	rotate: 90
+c_head
+	bounds: 1841, 458, 151, 201
+	offsets: 1, 1, 154, 203
+c_shoulder_L
+	bounds: 1924, 1561, 159, 47
+	offsets: 1, 1, 161, 49
+	rotate: 90
+c_shoulder_R
+	bounds: 2, 3, 160, 49
+
+block_1_2_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_hand_L
+	bounds: 296, 278, 124, 157
+	offsets: 1, 1, 127, 159
+	rotate: 90
+2_hand_L
+	bounds: 2, 1628, 387, 414
+2_hand_R
+	bounds: 2, 1212, 371, 414
+Lighting/Lighting_005
+	bounds: 296, 404, 203, 130
+	offsets: 272, 315, 960, 540
+	rotate: 90
+Lighting/Lighting_006
+	bounds: 296, 404, 203, 130
+	offsets: 272, 315, 960, 540
+	rotate: 90
+Lighting/Lighting_013
+	bounds: 391, 1738, 344, 304
+	offsets: 268, 132, 960, 540
+Lighting/Lighting_014
+	bounds: 391, 1738, 344, 304
+	offsets: 268, 132, 960, 540
+Lighting/Lighting_015
+	bounds: 737, 1741, 335, 301
+	offsets: 289, 127, 960, 540
+Lighting/Lighting_016
+	bounds: 737, 1741, 335, 301
+	offsets: 289, 127, 960, 540
+Lighting/Lighting_017
+	bounds: 737, 1741, 335, 301
+	offsets: 289, 127, 960, 540
+Lighting/Lighting_018
+	bounds: 1074, 1749, 339, 293
+	offsets: 290, 125, 960, 540
+Lighting/Lighting_019
+	bounds: 1074, 1749, 339, 293
+	offsets: 290, 125, 960, 540
+Lighting/Lighting_020
+	bounds: 2, 267, 340, 292
+	offsets: 294, 123, 960, 540
+	rotate: 90
+Lighting/Lighting_021
+	bounds: 2, 267, 340, 292
+	offsets: 294, 123, 960, 540
+	rotate: 90
+Lighting/Lighting_022
+	bounds: 2, 609, 337, 298
+	offsets: 299, 116, 960, 540
+Lighting/Lighting_023
+	bounds: 2, 609, 337, 298
+	offsets: 299, 116, 960, 540
+Lighting/Lighting_024
+	bounds: 391, 1441, 326, 295
+	offsets: 317, 118, 960, 540
+Lighting/Lighting_025
+	bounds: 391, 1441, 326, 295
+	offsets: 317, 118, 960, 540
+Lighting/Lighting_026
+	bounds: 2, 909, 341, 301
+	offsets: 321, 111, 960, 540
+Lighting/Lighting_027
+	bounds: 2, 909, 341, 301
+	offsets: 321, 111, 960, 540
+Lighting/Lighting_028
+	bounds: 1415, 1748, 337, 294
+	offsets: 330, 110, 960, 540
+Lighting/Lighting_029
+	bounds: 1415, 1748, 337, 294
+	offsets: 330, 110, 960, 540
+Lighting/Lighting_030
+	bounds: 1754, 1720, 322, 266
+	offsets: 347, 106, 960, 540
+	rotate: 90
+Lighting/Lighting_031
+	bounds: 1754, 1720, 322, 266
+	offsets: 347, 106, 960, 540
+	rotate: 90
+Lighting/Lighting_032
+	bounds: 1754, 1720, 322, 266
+	offsets: 347, 106, 960, 540
+	rotate: 90
+Lighting/Lighting_033
+	bounds: 2, 2, 330, 263
+	offsets: 347, 103, 960, 540
+Lighting/Lighting_034
+	bounds: 2, 2, 330, 263
+	offsets: 347, 103, 960, 540
+Lighting/Lighting_037
+	bounds: 375, 1186, 318, 253
+	offsets: 360, 105, 960, 540
+Lighting/Lighting_038
+	bounds: 375, 1186, 318, 253
+	offsets: 360, 105, 960, 540
+Lighting/Lighting_039
+	bounds: 345, 938, 310, 246
+	offsets: 363, 112, 960, 540
+Lighting/Lighting_040
+	bounds: 345, 938, 310, 246
+	offsets: 363, 112, 960, 540

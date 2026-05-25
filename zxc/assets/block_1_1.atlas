@@ -1,0 +1,89 @@
+block_1_1.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 966, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+cloud_2
+	bounds: 1239, 4, 528, 289
+	offsets: 3, 1, 541, 291
+eyebrow_L
+	bounds: 1769, 29, 42, 26
+	offsets: 7, 1, 50, 29
+eyebrow_R
+	bounds: 1906, 73, 40, 24
+	offsets: 1, 1, 42, 26
+eyelashes_L
+	bounds: 1948, 79, 24, 18
+	offsets: 3, 1, 30, 23
+eyelashes_R
+	bounds: 1813, 37, 26, 18
+	offsets: 1, 1, 28, 20
+eyelids_L
+	bounds: 1924, 1767, 26, 20
+	offsets: 1, 2, 30, 23
+eyelids_R
+	bounds: 1769, 7, 26, 20
+	offsets: 1, 1, 36, 29
+fog
+	bounds: 2, 295, 1920, 669
+	offsets: 1, 1, 1922, 1082
+head
+	bounds: 1769, 57, 135, 236
+	offsets: 1, 1, 137, 238
+leg_sh_L
+	bounds: 1924, 1789, 257, 105
+	offsets: 2, 2, 262, 109
+	rotate: 90
+leg_sh_R
+	bounds: 1906, 99, 194, 137
+	offsets: 3, 2, 200, 141
+	rotate: 90
+pupil_L
+	bounds: 1924, 1753, 13, 12
+	offsets: 1, 1, 15, 14
+pupil_R
+	bounds: 1952, 1775, 13, 12
+	offsets: 1, 1, 15, 14
+stone
+	bounds: 2, 2, 1235, 291
+	offsets: 2, 1, 1238, 294
+white_L
+	bounds: 2031, 2026, 20, 14
+	offsets: 1, 1, 22, 16
+	rotate: 90
+white_R
+	bounds: 1906, 58, 20, 13
+	offsets: 1, 1, 22, 15
+
+block_1_1_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+cloud_1
+	bounds: 2, 845, 531, 281
+	offsets: 3, 8, 541, 292
+	rotate: 90
+hand_L_1
+	bounds: 1814, 1618, 218, 414
+hand_R_1
+	bounds: 1322, 1624, 408, 490
+	rotate: 90
+knife_L
+	bounds: 2, 24, 235, 368
+	offsets: 1, 1, 237, 370
+knife_R
+	bounds: 2, 394, 206, 449
+	offsets: 1, 1, 208, 451
+leg_L_1
+	bounds: 749, 1695, 337, 571
+	rotate: 90
+leg_R_1
+	bounds: 2, 1378, 297, 654
+skirt_sh
+	bounds: 749, 1515, 178, 185
+	rotate: 90
+torso
+	bounds: 301, 1528, 446, 504
+tryapka_back
+	bounds: 301, 1389, 137, 187
+	rotate: 90
