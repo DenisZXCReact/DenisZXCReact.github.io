@@ -1,0 +1,60 @@
+boobJob.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+Cum bubble
+	bounds: 879, 722, 44, 81
+	rotate: 90
+Cum drop 1
+	bounds: 592, 397, 44, 81
+Cum drop 2
+	bounds: 1453, 883, 44, 81
+Cum stain
+	bounds: 1924, 1614, 44, 81
+Eye balls
+	bounds: 238, 243, 70, 106
+	rotate: 90
+Helena L thumb
+	bounds: 651, 482, 22, 19
+Pupils
+	bounds: 962, 722, 44, 81
+	rotate: 90
+bg
+	bounds: 2, 966, 1920, 1080
+drake balls
+	bounds: 1924, 1697, 89, 83
+drake feet
+	bounds: 1247, 832, 120, 132
+drake penis
+	bounds: 651, 503, 212, 212
+drake torso
+	bounds: 2, 480, 647, 484
+helena L arm
+	bounds: 1924, 1782, 113, 99
+	rotate: 90
+helena L boob
+	bounds: 2, 2, 231, 233
+	rotate: 90
+helena R arm
+	bounds: 1924, 1897, 110, 149
+helena R boob
+	bounds: 2, 235, 234, 243
+helena hair bang
+	bounds: 1087, 800, 158, 164
+helena hair front
+	bounds: 426, 328, 164, 150
+helena hair tail
+	bounds: 1369, 870, 82, 94
+helena head
+	bounds: 238, 315, 186, 163
+helena legs
+	bounds: 879, 768, 206, 196
+helena mouth 1
+	bounds: 346, 263, 34, 50
+helena mouth 2
+	bounds: 1369, 834, 34, 50
+	rotate: 90
+helena torso
+	bounds: 651, 717, 226, 247
+helena underboob
+	bounds: 237, 2, 231, 233
+	rotate: 90

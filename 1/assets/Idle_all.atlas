@@ -1,0 +1,66 @@
+Idle_all.webp
+	size: 4096, 4096
+	filter: Linear, Linear
+BeachScene/Drake no BG
+	bounds: 2, 840, 1016, 2144
+	rotate: 90
+BeachScene/Helena no bg
+	bounds: 2472, 2074, 1016, 1944
+BeachScene/Sulli no BG
+	bounds: 2472, 128, 1016, 1944
+CaveScene/d-bl3-fear TF
+	bounds: 2, 1858, 2468, 2160
+CaveScene/d-bl3-statue stand
+	bounds: 2, 2, 836, 1780
+	rotate: 90
+CaveScene/eyes 10-03
+	bounds: 3490, 906, 3112, 350
+	rotate: 90
+
+Idle_all_2.webp
+	size: 4096, 4096
+	filter: Linear, Linear
+BeachScene/Sulli sit 2
+	bounds: 2, 2281, 1016, 1764
+CaveScene/H-b3-statue stand
+	bounds: 2, 620, 857, 1659
+Helen TF dressed 1
+	bounds: 861, 542, 739, 1737
+JungleScene/sally big
+	bounds: 1020, 2362, 813, 1683
+JungleScene/sally big2
+	bounds: 1835, 2362, 813, 1683
+JungleScene/sally big3
+	bounds: 2650, 2362, 813, 1683
+block 3/s-b3-fear lighter
+	bounds: 1602, 677, 813, 1683
+block 3/s-b3-lighter
+	bounds: 2417, 677, 813, 1683
+block 3/s-b3-to-torch
+	bounds: 3232, 677, 813, 1683
+
+Idle_all_3.webp
+	size: 4096, 4096
+	filter: Linear, Linear
+CaveScene/s-b3-after sex
+	bounds: 817, 2481, 1091, 1383
+CaveScene/s-b3-after statue
+	bounds: 1910, 2481, 1091, 1383
+JungleScene/Helen
+	bounds: 3003, 2266, 861, 1598
+JungleScene/Helen-sit-smile
+	bounds: 2477, 1337, 927, 1202
+	rotate: 90
+JungleScene/drake compas
+	bounds: 2, 521, 806, 1658
+block 3/d-bl3-2
+	bounds: 817, 1673, 806, 1658
+	rotate: 90
+block 3/d-bl3-fear
+	bounds: 810, 865, 806, 1658
+	rotate: 90
+block 3/drake surprise right
+	bounds: 810, 57, 806, 1658
+	rotate: 90
+block 3/s-b3-with-torch
+	bounds: 2, 2181, 813, 1683

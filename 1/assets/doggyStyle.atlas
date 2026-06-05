@@ -1,0 +1,81 @@
+doggyStyle.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+Cum drop 2
+	bounds: 2, 15, 44, 81
+	rotate: 90
+Cum stain
+	bounds: 1744, 803, 44, 81
+	rotate: 90
+Cum string 2
+	bounds: 1214, 653, 44, 81
+bg
+	bounds: 2, 960, 1920, 1080
+drake L arm
+	bounds: 927, 736, 358, 222
+drake L leg
+	bounds: 2, 61, 314, 145
+drake R arm
+	bounds: 467, 336, 84, 178
+drake R hip
+	bounds: 1924, 1796, 244, 101
+	rotate: 90
+drake R leg
+	bounds: 1534, 798, 160, 208
+	rotate: 90
+drake R shoulder
+	bounds: 1924, 1324, 125, 101
+	rotate: 90
+drake balls
+	bounds: 1924, 1149, 49, 55
+drake ear
+	bounds: 318, 72, 22, 39
+	rotate: 90
+drake eye
+	bounds: 1888, 938, 20, 20
+drake hair
+	bounds: 927, 639, 148, 95
+drake head
+	bounds: 318, 96, 110, 146
+	rotate: 90
+drake penis
+	bounds: 1077, 651, 135, 83
+drake pupils
+	bounds: 2027, 2033, 7, 7
+drake torso
+	bounds: 2, 516, 561, 442
+helena R arm
+	bounds: 565, 527, 110, 211
+	rotate: 90
+helena R leg
+	bounds: 1287, 780, 178, 245
+	rotate: 90
+helena boob
+	bounds: 1924, 1595, 199, 116
+	rotate: 90
+helena ear
+	bounds: 467, 211, 48, 41
+helena eye
+	bounds: 1287, 743, 35, 67
+	rotate: 90
+helena hair bang
+	bounds: 1924, 1206, 105, 116
+helena hair front
+	bounds: 922, 523, 114, 133
+	rotate: 90
+helena hair tail
+	bounds: 467, 254, 75, 80
+helena head
+	bounds: 1924, 1451, 142, 109
+	rotate: 90
+helena head 2
+	bounds: 1744, 849, 142, 109
+helena head 3
+	bounds: 778, 528, 142, 109
+helena l leg
+	bounds: 565, 639, 360, 319
+helena pupils
+	bounds: 1534, 782, 14, 52
+	rotate: 90
+helena torso
+	bounds: 2, 208, 463, 306
