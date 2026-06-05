@@ -1,15 +1,45 @@
-polygon2s.webp
+polygon1.webp
 	size: 2048, 2048
 	filter: Linear, Linear
+body
+	bounds: 2, 904, 545, 692
+boobs
+	bounds: 2, 374, 513, 528
+earring_L
+	bounds: 2, 64, 59, 99
+earring_R
+	bounds: 747, 1464, 97, 132
+eye_L
+	bounds: 549, 930, 23, 23
+eye_R
+	bounds: 1916, 2021, 28, 25
 eye_closed_L
-	bounds: 157, 314, 21, 18
+	bounds: 517, 860, 42, 26
+	rotate: 90
 eye_closed_R
-	bounds: 495, 1228, 13, 8
-fire
-	bounds: 2, 206, 153, 126
-girl
-	bounds: 2, 334, 491, 1047
-hair
-	bounds: 2, 2, 73, 202
-tits
-	bounds: 495, 1238, 134, 143
+	bounds: 2, 2, 60, 26
+	rotate: 90
+eyelashes_L
+	bounds: 1188, 1673, 67, 56
+eyelashes_R
+	bounds: 1429, 1758, 80, 43
+finger
+	bounds: 1721, 1811, 36, 33
+glasses
+	bounds: 549, 955, 188, 113
+hair_1
+	bounds: 405, 272, 37, 100
+hair_2
+	bounds: 549, 1070, 196, 526
+hair_3
+	bounds: 858, 1604, 328, 442
+hand_L
+	bounds: 2, 165, 401, 207
+hand_R
+	bounds: 2, 1598, 854, 448
+head
+	bounds: 1188, 1731, 239, 315
+headphones
+	bounds: 1429, 1803, 290, 243
+neck
+	bounds: 1721, 1846, 193, 200

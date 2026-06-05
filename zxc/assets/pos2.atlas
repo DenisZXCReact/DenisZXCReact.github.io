@@ -1,108 +1,163 @@
-pos3.webp
+pos2.webp
 	size: 2048, 2048
 	filter: Linear, Linear
-anus_ring
-	bounds: 1959, 1347, 67, 114
+2man_hand_L
+	bounds: 1523, 138, 132, 398
+	rotate: 90
+2man_hand_L_1
+	bounds: 2, 17, 329, 380
+	rotate: 90
+2man_hand_R
+	bounds: 802, 23, 166, 435
+	rotate: 90
+2man_hand_R_1
+	bounds: 802, 191, 155, 491
+	rotate: 90
 bg
-	bounds: 2, 952, 1759, 1094
-dick
-	bounds: 1744, 559, 391, 181
+	bounds: 2, 966, 1980, 1080
+cum
+	bounds: 1991, 38, 22, 55
 	rotate: 90
-girl_blik_1
-	bounds: 1063, 346, 14, 12
-girl_blik_2
-	bounds: 2037, 2036, 10, 9
+eye_L_1
+	bounds: 783, 43, 17, 36
+eye_L_2
+	bounds: 1893, 104, 22, 32
+eye_L_3
+	bounds: 2022, 1946, 18, 15
+eye_L_4
+	bounds: 1436, 2, 19, 17
+eye_L_5
+	bounds: 1991, 2, 34, 44
 	rotate: 90
-girl_body
-	bounds: 1098, 341, 609, 644
+eye_L_6
+	bounds: 1984, 1776, 31, 31
+eye_R_1
+	bounds: 1381, 17, 31, 53
 	rotate: 90
-girl_eye_1
-	bounds: 2002, 1318, 24, 27
-girl_eye_1_iris
-	bounds: 2028, 1446, 14, 15
-girl_eye_1_under
-	bounds: 335, 19, 13, 16
+eye_R_2
+	bounds: 1436, 21, 27, 42
 	rotate: 90
-girl_eye_2
-	bounds: 335, 71, 41, 34
-girl_eye_2_Up
-	bounds: 1959, 1311, 41, 34
-girl_eye_2_iris
-	bounds: 2, 2, 19, 18
-girl_eye_2_under
-	bounds: 1959, 1290, 28, 19
-girl_eyebrow_1
-	bounds: 1063, 396, 62, 28
+eye_R_3
+	bounds: 2022, 1963, 25, 24
 	rotate: 90
-girl_eyebrow_2
-	bounds: 1986, 1945, 19, 26
-girl_eyes_1_closed
-	bounds: 1986, 1973, 40, 34
-girl_eyes_2_closed
-	bounds: 1744, 342, 22, 27
+eye_R_4
+	bounds: 1239, 2, 42, 64
+eye_R_5
+	bounds: 727, 48, 31, 54
 	rotate: 90
-girl_hair
-	bounds: 1763, 1573, 221, 473
-girl_hair_1
-	bounds: 1744, 366, 191, 243
+girl_eyebrow_L
+	bounds: 1991, 62, 38, 55
 	rotate: 90
-girl_hand_1
-	bounds: 1763, 1111, 194, 460
-girl_hand_2
-	bounds: 1809, 37, 327, 192
+girl_eyebrow_R
+	bounds: 1984, 1809, 23, 40
+girl_leg_1
+	bounds: 384, 81, 416, 265
+girl_mouth_1
+	bounds: 1984, 1886, 34, 43
+girl_mouth_2
+	bounds: 1984, 1931, 36, 57
+girl_mouth_3
+	bounds: 625, 25, 47, 54
+girl_teeth
+	bounds: 727, 31, 15, 27
 	rotate: 90
-girl_pussy
-	bounds: 1959, 1463, 108, 87
+girl_tit_L
+	bounds: 1295, 50, 296, 226
 	rotate: 90
-hand_1
-	bounds: 1063, 74, 265, 391
+man1_body
+	bounds: 2, 348, 616, 1520
 	rotate: 90
-hand_1_sh
-	bounds: 2, 22, 83, 213
+man_1_hand_L
+	bounds: 1524, 272, 466, 692
+man_2_3
+	bounds: 452, 7, 72, 87
 	rotate: 90
-lips_down
-	bounds: 335, 34, 38, 35
-lips_up
-	bounds: 1986, 2009, 49, 37
-man_2_body
-	bounds: 2, 107, 1059, 351
+man_2_bals
+	bounds: 1923, 102, 121, 168
 man_2_dick
-	bounds: 1763, 958, 151, 219
-	rotate: 90
-man_2_hand_1
-	bounds: 1456, 19, 351, 320
-man_2_hand_2
-	bounds: 217, 17, 116, 88
-man_body
-	bounds: 2, 460, 490, 1094
-	rotate: 90
-teeth_1
-	bounds: 1809, 21, 21, 14
-teeth_2
-	bounds: 378, 79, 29, 26
-tongue_1
-	bounds: 1063, 360, 34, 28
-	rotate: 90
-
-pos3_2.webp
-	size: 1024, 1024
-	filter: Linear, Linear
-girl_head
-	bounds: 2, 698, 260, 322
-light копия
-	bounds: 2, 379, 202, 317
-man_2_balls
-	bounds: 485, 707, 153, 166
-man_2_body_2
-	bounds: 264, 875, 355, 145
-man_2_dick_sh
-	bounds: 264, 705, 168, 219
-	rotate: 90
-man_balls
-	bounds: 621, 889, 131, 224
+	bounds: 1523, 23, 113, 368
 	rotate: 90
 sperma_1
-	bounds: 2, 114, 136, 263
-sperma_2
-	bounds: 847, 861, 159, 173
+	bounds: 1893, 5, 95, 96
 	rotate: 90
+sperma_10
+	bounds: 384, 2, 77, 66
+	rotate: 90
+sperma_12
+	bounds: 1323, 10, 38, 56
+	rotate: 90
+sperma_13
+	bounds: 1984, 1851, 32, 33
+sperma_14
+	bounds: 1480, 21, 27, 37
+	rotate: 90
+sperma_15
+	bounds: 674, 29, 51, 50
+sperma_16
+	bounds: 625, 8, 39, 15
+sperma_17
+	bounds: 1239, 122, 67, 54
+	rotate: 90
+sperma_2
+	bounds: 541, 3, 82, 76
+sperma_6
+	bounds: 1984, 1990, 47, 56
+sperma_7
+	bounds: 1283, 2, 38, 46
+sperma_8
+	bounds: 1239, 68, 52, 54
+	rotate: 90
+
+pos2_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2man_body
+	bounds: 2, 117, 611, 1199
+bg_1
+	bounds: 2, 1318, 1252, 728
+girl_body
+	bounds: 1256, 1638, 628, 408
+girl_hair
+	bounds: 615, 63, 372, 360
+girl_hand_R_1
+	bounds: 989, 169, 264, 295
+girl_hand_R_2
+	bounds: 1886, 1743, 148, 303
+girl_hand_R_3
+	bounds: 1860, 897, 145, 180
+girl_head
+	bounds: 1879, 1390, 246, 167
+	rotate: 90
+girl_leg_2
+	bounds: 1415, 804, 467, 443
+	rotate: 90
+girl_leg_L
+	bounds: 1256, 1273, 621, 363
+girl_leg_R
+	bounds: 615, 425, 891, 371
+	rotate: 90
+girl_tit_L_SH
+	bounds: 1860, 1079, 181, 178
+girl_tit_R
+	bounds: 1358, 498, 263, 245
+	rotate: 90
+girl_tit_R_SH
+	bounds: 1255, 177, 255, 287
+man_1_balls
+	bounds: 1879, 1259, 129, 167
+	rotate: 90
+man_1_dick
+	bounds: 988, 466, 368, 295
+man_1_leg_R
+	bounds: 988, 763, 425, 508
+sperma_11
+	bounds: 2, 21, 195, 94
+sperma_3
+	bounds: 1605, 536, 108, 130
+sperma_4
+	bounds: 199, 10, 105, 155
+	rotate: 90
+sperma_5
+	bounds: 989, 41, 158, 126
+sperma_9
+	bounds: 1605, 668, 155, 134
