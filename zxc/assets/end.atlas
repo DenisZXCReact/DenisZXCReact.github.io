@@ -1,0 +1,28 @@
+end.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 964, 1922, 1082
+body
+	bounds: 1804, 483, 222, 241
+	rotate: 90
+boobs
+	bounds: 1629, 210, 271, 317
+	rotate: 90
+dick_1
+	bounds: 1804, 707, 242, 255
+dick_2
+	bounds: 1328, 175, 299, 313
+eye_closed_L
+	bounds: 2, 191, 19, 23
+eye_closed_R
+	bounds: 2, 2, 18, 21
+girl
+	bounds: 749, 25, 577, 523
+legs
+	bounds: 2, 216, 745, 746
+man_1
+	bounds: 749, 550, 770, 412
+man_2
+	bounds: 1521, 490, 472, 281
+	rotate: 90

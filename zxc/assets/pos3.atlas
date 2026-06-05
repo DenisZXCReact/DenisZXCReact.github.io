@@ -1,0 +1,108 @@
+pos.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+anus_ring
+	bounds: 1959, 1347, 67, 114
+bg
+	bounds: 2, 952, 1759, 1094
+dick
+	bounds: 1744, 559, 391, 181
+	rotate: 90
+girl_blik_1
+	bounds: 1063, 346, 14, 12
+girl_blik_2
+	bounds: 2037, 2036, 10, 9
+	rotate: 90
+girl_body
+	bounds: 1098, 341, 609, 644
+	rotate: 90
+girl_eye_1
+	bounds: 2002, 1318, 24, 27
+girl_eye_1_iris
+	bounds: 2028, 1446, 14, 15
+girl_eye_1_under
+	bounds: 335, 19, 13, 16
+	rotate: 90
+girl_eye_2
+	bounds: 335, 71, 41, 34
+girl_eye_2_Up
+	bounds: 1959, 1311, 41, 34
+girl_eye_2_iris
+	bounds: 2, 2, 19, 18
+girl_eye_2_under
+	bounds: 1959, 1290, 28, 19
+girl_eyebrow_1
+	bounds: 1063, 396, 62, 28
+	rotate: 90
+girl_eyebrow_2
+	bounds: 1986, 1945, 19, 26
+girl_eyes_1_closed
+	bounds: 1986, 1973, 40, 34
+girl_eyes_2_closed
+	bounds: 1744, 342, 22, 27
+	rotate: 90
+girl_hair
+	bounds: 1763, 1573, 221, 473
+girl_hair_1
+	bounds: 1744, 366, 191, 243
+	rotate: 90
+girl_hand_1
+	bounds: 1763, 1111, 194, 460
+girl_hand_2
+	bounds: 1809, 37, 327, 192
+	rotate: 90
+girl_pussy
+	bounds: 1959, 1463, 108, 87
+	rotate: 90
+hand_1
+	bounds: 1063, 74, 265, 391
+	rotate: 90
+hand_1_sh
+	bounds: 2, 22, 83, 213
+	rotate: 90
+lips_down
+	bounds: 335, 34, 38, 35
+lips_up
+	bounds: 1986, 2009, 49, 37
+man_2_body
+	bounds: 2, 107, 1059, 351
+man_2_dick
+	bounds: 1763, 958, 151, 219
+	rotate: 90
+man_2_hand_1
+	bounds: 1456, 19, 351, 320
+man_2_hand_2
+	bounds: 217, 17, 116, 88
+man_body
+	bounds: 2, 460, 490, 1094
+	rotate: 90
+teeth_1
+	bounds: 1809, 21, 21, 14
+teeth_2
+	bounds: 378, 79, 29, 26
+tongue_1
+	bounds: 1063, 360, 34, 28
+	rotate: 90
+
+pos2.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+girl_head
+	bounds: 2, 698, 260, 322
+light копия
+	bounds: 2, 379, 202, 317
+man_2_balls
+	bounds: 485, 707, 153, 166
+man_2_body_2
+	bounds: 264, 875, 355, 145
+man_2_dick_sh
+	bounds: 264, 705, 168, 219
+	rotate: 90
+man_balls
+	bounds: 621, 889, 131, 224
+	rotate: 90
+sperma_1
+	bounds: 2, 114, 136, 263
+sperma_2
+	bounds: 847, 861, 159, 173
+	rotate: 90

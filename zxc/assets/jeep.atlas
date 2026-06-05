@@ -1,0 +1,15 @@
+jeep.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1
+	bounds: 2, 148, 777, 692
+2
+	bounds: 781, 193, 668, 647
+3
+	bounds: 2, 842, 1922, 1082
+
+jeep2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 842, 1922, 1082

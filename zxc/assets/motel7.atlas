@@ -1,0 +1,9 @@
+motel.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 918, 1922, 1082
+eye_closed_L
+	bounds: 1926, 1970, 74, 30
+eye_closed_R
+	bounds: 2, 881, 74, 35
