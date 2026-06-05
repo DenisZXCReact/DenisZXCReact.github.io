@@ -1,0 +1,73 @@
+pos4.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1
+	bounds: 1924, 1836, 111, 210
+10
+	bounds: 1017, 183, 742, 535
+11
+	bounds: 179, 17, 184, 316
+2
+	bounds: 713, 156, 138, 177
+22
+	bounds: 853, 165, 90, 29
+33
+	bounds: 566, 33, 19, 17
+44
+	bounds: 179, 2, 17, 13
+5
+	bounds: 853, 196, 137, 162
+	rotate: 90
+55
+	bounds: 1894, 908, 56, 27
+	rotate: 90
+66
+	bounds: 1924, 1407, 53, 44
+77
+	bounds: 1434, 728, 29, 18
+88
+	bounds: 566, 145, 145, 188
+99
+	bounds: 1434, 748, 458, 216
+anus
+	bounds: 636, 57, 31, 39
+	rotate: 90
+balls
+	bounds: 566, 52, 68, 91
+bg
+	bounds: 2, 966, 1920, 1080
+bg_1
+	bounds: 2, 720, 1430, 244
+girl_vagina
+	bounds: 636, 90, 60, 53
+man2_body
+	bounds: 2, 335, 383, 1013
+	rotate: 90
+man2_body_1
+	bounds: 2, 5, 175, 328
+sabrina_boob_1
+	bounds: 365, 32, 199, 301
+sperma_1
+	bounds: 1924, 1654, 95, 180
+sperma_2
+	bounds: 1924, 1484, 106, 168
+under_eyes
+	bounds: 1924, 1453, 90, 29
+
+pos4_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+3
+	bounds: 2, 525, 441, 371
+	rotate: 90
+4
+	bounds: 1149, 1470, 466, 483
+girl_body
+	bounds: 405, 971, 468, 655
+	rotate: 90
+girl_leg_1
+	bounds: 405, 1441, 742, 512
+hair
+	bounds: 1617, 1589, 336, 364
+man1_body
+	bounds: 2, 968, 401, 985
