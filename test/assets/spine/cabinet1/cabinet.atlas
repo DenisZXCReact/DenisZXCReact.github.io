@@ -1,7 +1,0 @@
-cabinet.webp
-	size: 2048, 2048
-	filter: Linear, Linear
-bg
-	bounds: 2, 921, 2001, 1082
-blik
-	bounds: 2, 819, 54, 100
