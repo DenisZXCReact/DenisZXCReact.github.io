@@ -1,0 +1,35 @@
+cabinet2.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+2_hand_1
+	bounds: 447, 751, 121, 85
+2_hand_2
+	bounds: 370, 541, 71, 63
+2_hand_3
+	bounds: 874, 923, 120, 91
+2_leg
+	bounds: 447, 927, 87, 425
+	rotate: 90
+body
+	bounds: 2, 403, 273, 611
+boobs
+	bounds: 2, 277, 207, 124
+eye_closed_1
+	bounds: 996, 1004, 18, 10
+eye_closed_2
+	bounds: 447, 739, 18, 10
+hair
+	bounds: 277, 405, 15, 33
+hand_1
+	bounds: 874, 855, 65, 66
+hand_2
+	bounds: 2, 153, 54, 122
+hand_2_2
+	bounds: 211, 279, 54, 122
+hand_3
+	bounds: 277, 440, 91, 164
+leg_1
+	bounds: 277, 606, 168, 408
+leg_2
+	bounds: 447, 838, 87, 425
+	rotate: 90

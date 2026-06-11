@@ -1,9 +1,0 @@
-Pair_idle.webp
-	size: 1024, 1024
-	filter: Linear, Linear
-boy_2
-	bounds: 2, 464, 452, 506
-girl_2
-	bounds: 2, 2, 451, 460
-girl_3
-	bounds: 456, 510, 451, 460
