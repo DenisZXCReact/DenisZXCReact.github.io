@@ -5,39 +5,44 @@ simon.webp
 	bounds: 1906, 1340, 706, 123
 	rotate: 90
 1_boot_L
-	bounds: 1621, 190, 280, 309
+	bounds: 1645, 190, 280, 309
 1_boot_R
-	bounds: 1348, 150, 271, 349
-1_eyebrow_L1
-	bounds: 1906, 1076, 120, 48
-1_eyebrow_R1
-	bounds: 190, 81, 120, 48
-1_eyelashes_L_Up1
-	bounds: 1906, 1046, 85, 28
-1_eyelashes_L_down1
-	bounds: 2, 2, 76, 19
-1_eyelashes_R_Up1
-	bounds: 1760, 571, 86, 30
-1_eyelashes_R_down1
-	bounds: 312, 109, 74, 20
+	bounds: 1372, 150, 271, 349
+1_eye_L
+	bounds: 190, 55, 42, 32
+1_eye_R
+	bounds: 1461, 115, 40, 33
+1_eye_closed_L
+	bounds: 1866, 104, 84, 40
+	rotate: 90
+1_eye_closed_R
+	bounds: 1372, 110, 87, 38
+1_eyebrow_L
+	bounds: 1760, 598, 126, 55
+1_eyebrow_R
+	bounds: 1906, 971, 153, 56
+	rotate: 90
+1_eyelashes_L_Up
+	bounds: 1760, 572, 84, 24
+1_eyelashes_L_down
+	bounds: 2, 5, 77, 16
+1_eyelashes_R_down
+	bounds: 2031, 1972, 74, 15
+	rotate: 90
+1_eyelashes_R_up
+	bounds: 313, 106, 83, 23
 1_hand_L
 	bounds: 2, 23, 106, 186
 	rotate: 90
 1_hand_R
 	bounds: 1906, 1126, 128, 212
-1_head1
-	bounds: 809, 92, 407, 537
+1_head
+	bounds: 809, 92, 407, 561
 	rotate: 90
-1_iris_L1
-	bounds: 1432, 107, 41, 41
-1_iris_R1
-	bounds: 1843, 68, 40, 40
-1_mouth1
-	bounds: 1760, 603, 120, 50
-1_mouth1_under
-	bounds: 190, 55, 65, 24
+1_mouth
+	bounds: 190, 89, 121, 40
 1_neck
-	bounds: 1621, 22, 220, 166
+	bounds: 1645, 22, 219, 166
 1_pants
 	bounds: 2, 131, 805, 1915
 1_shirt
@@ -45,13 +50,9 @@ simon.webp
 1_tie
 	bounds: 809, 501, 152, 949
 	rotate: 90
-1_wihte_L1
-	bounds: 1843, 110, 78, 40
+1_white_L
+	bounds: 1964, 1046, 78, 33
 	rotate: 90
-1_wihte_R1
-	bounds: 1348, 106, 82, 42
-eye_closed_L
-	bounds: 80, 8, 27, 13
-eye_closed_R
-	bounds: 2031, 2018, 28, 13
+1_white_R
+	bounds: 1906, 888, 81, 33
 	rotate: 90
