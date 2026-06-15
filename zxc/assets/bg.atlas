@@ -1,0 +1,9 @@
+bg.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 842, 1922, 1082
+people_1
+	bounds: 2, 458, 1155, 190
+people_2
+	bounds: 2, 650, 1162, 190
