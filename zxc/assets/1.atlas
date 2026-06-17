@@ -1,0 +1,260 @@
+pos1.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_lips
+	bounds: 1044, 14, 39, 43
+	rotate: 90
+2_mouth_under
+	bounds: 2025, 789, 32, 21
+	rotate: 90
+2_teeth
+	bounds: 876, 2, 22, 9
+2_tongue
+	bounds: 1089, 35, 30, 18
+3_eye_closed_L
+	bounds: 1380, 308, 55, 33
+	rotate: 90
+3_eye_closed_R
+	bounds: 1343, 308, 55, 35
+	rotate: 90
+3_eyelashes_L
+	bounds: 1628, 243, 48, 20
+3_eyelashes_R
+	bounds: 2024, 1992, 54, 22
+	rotate: 90
+3_lips
+	bounds: 2000, 628, 43, 47
+3_mouth_under
+	bounds: 781, 46, 36, 30
+	rotate: 90
+3_teeth
+	bounds: 150, 2, 27, 12
+3_tongue
+	bounds: 43, 2, 35, 26
+bg
+	bounds: 2, 964, 1922, 1082
+body
+	bounds: 2, 299, 449, 663
+cum_1
+	bounds: 1044, 2, 10, 31
+	rotate: 90
+cum_10
+	bounds: 1337, 428, 80, 113
+cum_11
+	bounds: 2009, 823, 35, 65
+cum_12
+	bounds: 2001, 1304, 36, 107
+cum_13
+	bounds: 1960, 312, 68, 110
+cum_14
+	bounds: 2024, 1900, 22, 40
+cum_15
+	bounds: 1916, 774, 91, 161
+cum_17
+	bounds: 1337, 365, 47, 61
+cum_18
+	bounds: 1834, 2, 48, 50
+cum_19
+	bounds: 781, 2, 48, 42
+cum_2
+	bounds: 2001, 1266, 15, 20
+	rotate: 90
+cum_20
+	bounds: 1916, 552, 72, 124
+	rotate: 90
+cum_21
+	bounds: 876, 13, 40, 57
+	rotate: 90
+cum_23
+	bounds: 1628, 2, 61, 93
+	rotate: 90
+cum_24
+	bounds: 1926, 1266, 73, 202
+cum_25
+	bounds: 1926, 937, 101, 155
+cum_26
+	bounds: 631, 15, 67, 148
+	rotate: 90
+cum_27
+	bounds: 466, 22, 60, 163
+	rotate: 90
+cum_3
+	bounds: 1926, 1094, 102, 170
+cum_4
+	bounds: 2030, 1192, 13, 24
+cum_5
+	bounds: 935, 20, 33, 61
+	rotate: 90
+cum_6
+	bounds: 1343, 22, 32, 101
+	rotate: 90
+cum_7
+	bounds: 150, 16, 12, 41
+	rotate: 90
+cum_8
+	bounds: 1723, 9, 54, 109
+	rotate: 90
+cum_9
+	bounds: 1541, 15, 39, 65
+	rotate: 90
+dick
+	bounds: 2, 30, 267, 462
+	rotate: 90
+eye_closed_L
+	bounds: 1608, 13, 41, 18
+	rotate: 90
+eye_closed_R
+	bounds: 1678, 243, 45, 20
+eyebrow_1
+	bounds: 2024, 1850, 48, 12
+	rotate: 90
+eyebrow_2
+	bounds: 2018, 486, 64, 21
+	rotate: 90
+eyelashes_L_down
+	bounds: 453, 384, 41, 11
+	rotate: 90
+eyelashes_L_down_under
+	bounds: 453, 342, 40, 11
+	rotate: 90
+eyelashes_L_up
+	bounds: 2001, 1283, 45, 19
+eyelashes_R_down
+	bounds: 2009, 774, 47, 14
+	rotate: 90
+eyelashes_R_down_under
+	bounds: 935, 2, 44, 16
+eyelashes_R_up
+	bounds: 1386, 374, 52, 23
+	rotate: 90
+foot_finger_L_2
+	bounds: 2000, 721, 51, 46
+	rotate: 90
+foot_finger_L_2_1
+	bounds: 1446, 2, 52, 34
+	rotate: 90
+foot_finger_L_3
+	bounds: 2001, 1413, 55, 45
+	rotate: 90
+foot_finger_L_3_1
+	bounds: 998, 13, 44, 40
+foot_finger_L_4
+	bounds: 831, 2, 51, 43
+	rotate: 90
+foot_finger_L_4_1
+	bounds: 2009, 890, 37, 45
+foot_finger_L_5
+	bounds: 1482, 5, 57, 49
+foot_finger_L_5_1
+	bounds: 2000, 677, 46, 42
+foot_finger_R_1
+	bounds: 1971, 154, 65, 87
+foot_finger_R_2
+	bounds: 1971, 65, 69, 87
+foot_finger_R_3
+	bounds: 1960, 243, 67, 75
+	rotate: 90
+foot_finger_R_5
+	bounds: 813, 372, 53, 67
+	rotate: 90
+hair
+	bounds: 466, 84, 345, 341
+hand_L
+	bounds: 1926, 1707, 96, 339
+hand_L_1
+	bounds: 1926, 1470, 235, 112
+	rotate: 90
+hand_L_2
+	bounds: 1844, 54, 125, 187
+hand_L_2_2
+	bounds: 1884, 8, 44, 84
+	rotate: 90
+hand_L_2_3
+	bounds: 1960, 424, 56, 126
+hand_R
+	bounds: 1158, 25, 183, 336
+head
+	bounds: 1628, 65, 176, 214
+	rotate: 90
+iris_L
+	bounds: 1089, 13, 25, 20
+iris_R
+	bounds: 2018, 443, 27, 21
+leg_L_1
+	bounds: 1419, 547, 495, 415
+leg_L_2
+	bounds: 888, 543, 529, 419
+leg_R_1
+	bounds: 888, 363, 178, 447
+	rotate: 90
+leg_R_2
+	bounds: 453, 427, 433, 535
+lips
+	bounds: 80, 3, 68, 25
+pussy
+	bounds: 1916, 626, 82, 146
+pussy_1
+	bounds: 1628, 265, 41, 94
+	rotate: 90
+semen
+	bounds: 813, 55, 306, 343
+	rotate: 90
+stopa_R
+	bounds: 1343, 56, 250, 283
+	rotate: 90
+titka_L
+	bounds: 1729, 243, 229, 302
+titka_R
+	bounds: 1419, 308, 237, 308
+	rotate: 90
+vlaga_1
+	bounds: 2, 2, 26, 39
+	rotate: 90
+vlaga_10
+	bounds: 179, 2, 12, 17
+	rotate: 90
+vlaga_11
+	bounds: 2024, 1942, 22, 48
+vlaga_2
+	bounds: 2025, 774, 13, 21
+	rotate: 90
+vlaga_3
+	bounds: 2029, 1012, 15, 34
+vlaga_4
+	bounds: 900, 2, 9, 20
+	rotate: 90
+vlaga_5
+	bounds: 453, 323, 11, 17
+vlaga_6
+	bounds: 2018, 466, 18, 28
+	rotate: 90
+vlaga_7
+	bounds: 2030, 1218, 16, 22
+vlaga_8
+	bounds: 2029, 989, 13, 21
+vlaga_9
+	bounds: 1121, 35, 14, 18
+white_L
+	bounds: 2030, 1242, 39, 16
+	rotate: 90
+white_R
+	bounds: 2029, 1048, 44, 17
+	rotate: 90
+
+12.webp
+	size: 512, 512
+	filter: Linear, Linear
+cum_16
+	bounds: 249, 402, 65, 78
+foot_finger_L_1
+	bounds: 135, 257, 103, 110
+foot_finger_R_4
+	bounds: 2, 2, 70, 87
+hand_L_2_1
+	bounds: 316, 413, 64, 67
+hand_R_1
+	bounds: 135, 369, 112, 111
+hand_R_2
+	bounds: 2, 91, 96, 131
+stopa_L
+	bounds: 2, 224, 131, 256

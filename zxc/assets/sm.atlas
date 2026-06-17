@@ -1,0 +1,127 @@
+sm2b.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_girl_hand
+	bounds: 282, 391, 654, 201
+	rotate: 90
+2_girl_hand_1
+	bounds: 716, 735, 377, 181
+	rotate: 90
+2_girl_hand_2
+	bounds: 524, 63, 331, 102
+	rotate: 90
+2_girl_lips
+	bounds: 1544, 1796, 39, 28
+	rotate: 90
+2_girl_lyamki
+	bounds: 1258, 720, 267, 182
+2_girl_tits
+	bounds: 1226, 1217, 257, 335
+2_hand_1
+	bounds: 334, 1539, 479, 507
+2_hand_3
+	bounds: 1485, 1437, 183, 97
+2_hand_L
+	bounds: 1494, 1536, 184, 217
+	rotate: 90
+2_lips
+	bounds: 1670, 1514, 31, 20
+2_pants
+	bounds: 2, 1047, 330, 999
+2_shirt
+	bounds: 815, 1554, 281, 614
+	rotate: 90
+2_tie
+	bounds: 899, 687, 58, 425
+bedra
+	bounds: 334, 1049, 336, 488
+belt
+	bounds: 1431, 1558, 277, 61
+	rotate: 90
+boots
+	bounds: 628, 106, 288, 127
+	rotate: 90
+eye_L_1
+	bounds: 48, 23, 15, 17
+eye_L_2
+	bounds: 804, 716, 30, 17
+eye_closed
+	bounds: 524, 38, 31, 23
+eyebrow
+	bounds: 716, 561, 58, 21
+	rotate: 90
+eyelashes
+	bounds: 1544, 1785, 28, 9
+eyellashes_donw
+	bounds: 48, 2, 19, 6
+	rotate: 90
+eyellashes_up
+	bounds: 2038, 2015, 31, 8
+	rotate: 90
+girl_eye_R
+	bounds: 1906, 1698, 32, 22
+girl_eye_R_1
+	bounds: 1768, 1578, 14, 19
+girl_eye_closed
+	bounds: 2, 2, 38, 28
+	rotate: 90
+girl_eyebrow
+	bounds: 1258, 704, 44, 14
+girl_eyelashes
+	bounds: 32, 2, 38, 14
+	rotate: 90
+girl_eyellashes_down
+	bounds: 815, 1541, 29, 11
+girl_eyellashes_up
+	bounds: 628, 79, 32, 25
+girl_hair
+	bounds: 485, 561, 229, 486
+girl_hand_L
+	bounds: 672, 1114, 423, 256
+	rotate: 90
+girl_hand_R_1
+	bounds: 282, 38, 351, 240
+	rotate: 90
+girl_hand_R_2
+	bounds: 672, 1049, 41, 63
+girl_hand_R_3
+	bounds: 716, 621, 86, 112
+girl_head_down
+	bounds: 1494, 1778, 48, 57
+girl_head_up
+	bounds: 959, 689, 202, 297
+	rotate: 90
+girl_leg_1
+	bounds: 815, 1837, 209, 757
+	rotate: 90
+girl_leg_2
+	bounds: 815, 1837, 209, 757
+	rotate: 90
+girl_lip_down
+	bounds: 930, 1195, 27, 16
+girl_lips
+	bounds: 1485, 1335, 24, 24
+girl_poyas
+	bounds: 1485, 1361, 182, 74
+girl_spine
+	bounds: 930, 1213, 294, 339
+hand_1
+	bounds: 1574, 1722, 324, 462
+	rotate: 90
+hand_2
+	bounds: 1713, 1599, 191, 121
+head_down
+	bounds: 1713, 1548, 53, 49
+head_up
+	bounds: 959, 893, 318, 295
+	rotate: 90
+lip_down
+	bounds: 1494, 1751, 17, 25
+lip_up
+	bounds: 739, 603, 23, 16
+lyamki
+	bounds: 485, 396, 259, 163
+pants
+	bounds: 2, 42, 278, 1003
+tists
+	bounds: 1256, 904, 263, 311
