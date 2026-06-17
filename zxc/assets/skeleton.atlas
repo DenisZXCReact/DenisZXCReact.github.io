@@ -1,0 +1,104 @@
+skeleton.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+Carlos 12-04 annoyed
+	bounds: 1871, 166, 96, 124
+Carlos 12-04 base
+	bounds: 1871, 40, 96, 124
+Carlos 12-04 confident
+	bounds: 1844, 1466, 96, 124
+Carlos 12-04 embrsmt
+	bounds: 1844, 1340, 96, 124
+Carlos 12-04 hk
+	bounds: 1844, 1214, 96, 124
+Carlos 12-04 laugh
+	bounds: 1844, 1088, 96, 124
+Carlos 12-04 smirk
+	bounds: 1844, 962, 96, 124
+Carlos 12-04 sorry closed FIX
+	bounds: 1844, 836, 96, 124
+Carlos 12-04 sorry open FIX
+	bounds: 1844, 710, 96, 124
+Carlos 12-04 tricky
+	bounds: 1942, 1470, 96, 124
+Carlos flirty 24-04
+	bounds: 1942, 1344, 96, 124
+Carlos half nude 28-04
+	bounds: 938, 1306, 300, 740
+Carlos nude 28-04
+	bounds: 938, 564, 300, 740
+Carlos shadow dressed 31-03
+	bounds: 1240, 1306, 300, 740
+Carlos shadow topless 31-03
+	bounds: 1240, 564, 300, 740
+Carlos sit answer 24-04
+	bounds: 2, 75, 427, 379
+	rotate: 90
+Dolores/Dolores 31-03 face embrs-1
+	bounds: 1936, 1942, 110, 104
+Dolores/Dolores 31-03 face embrs-2
+	bounds: 1936, 1836, 110, 104
+Dolores/Dolores 31-03 face smirk
+	bounds: 1936, 1730, 110, 104
+Dolores/Dolores dressed 03-04
+	bounds: 1105, 20, 270, 670
+	rotate: 90
+Dolores/Dolores nude 03-04
+	bounds: 1348, 292, 270, 670
+	rotate: 90
+Esme/Esmeralde anger 06-04
+	bounds: 1844, 1896, 90, 150
+Esme/Esmeralde clothes 06-04
+	bounds: 626, 292, 270, 720
+	rotate: 90
+Esme/Esmeralde nude 28-04
+	bounds: 383, 20, 270, 720
+	rotate: 90
+Esme/Esmeralde smile 06-04
+	bounds: 1844, 1744, 90, 150
+Esme/Esmeralde surprised 06-04
+	bounds: 1844, 1592, 90, 150
+Isabell/Isabell base 03-04 FIX
+	bounds: 1777, 158, 92, 132
+Isabell/Isabell smirk 03-04
+	bounds: 1936, 1596, 92, 132
+Isabell/Isabell wtf 03-04
+	bounds: 1777, 24, 92, 132
+Isabell/isa dressed 03-04
+	bounds: 2, 1276, 310, 770
+Isabell/isa nude 03-04
+	bounds: 2, 504, 310, 770
+Isabell/isa topless 03-04
+	bounds: 314, 1276, 310, 770
+Ramona/Ramona 19-04
+	bounds: 314, 534, 310, 740
+Ramona/Ramona_dressed_shadow
+	bounds: 626, 1306, 310, 740
+Ramona/Ramona_nude_shadow
+	bounds: 626, 564, 310, 740
+Twins/M-l nude shadow 30-03
+	bounds: 1542, 1326, 300, 720
+Twins/M-l topless dressed green 30-03
+	bounds: 1542, 604, 300, 720
+Twins/ML base 03-04 var1 FIX
+	bounds: 1844, 612, 92, 96
+Twins/ML smirk 03-04 var1
+	bounds: 1942, 1246, 92, 96
+
+skeleton_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+Carlos sit calm 24-04
+	bounds: 576, 1065, 427, 379
+Carlos sit fear 24-04
+	bounds: 576, 684, 427, 379
+Carlos sit front face 24-04
+	bounds: 1005, 1065, 427, 379
+Dolores/Dolores topless 03-04
+	bounds: 304, 52, 270, 670
+Esme/Esmeralde shoes 28-04
+	bounds: 304, 724, 270, 720
+Twins/M-l topless dressed red 30-03
+	bounds: 2, 724, 300, 720
+Twins/M-l topless shadow 30-03
+	bounds: 2, 2, 300, 720

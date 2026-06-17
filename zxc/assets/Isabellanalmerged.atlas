@@ -1,0 +1,69 @@
+Isabellanalmerged.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+Carlos L arm
+	bounds: 2, 16, 137, 266
+Carlos R hip
+	bounds: 1924, 1753, 280, 83
+	rotate: 90
+Carlos R knee
+	bounds: 437, 576, 201, 77
+	rotate: 90
+Carlos eye
+	bounds: 237, 528, 16, 16
+Carlos head
+	bounds: 541, 799, 225, 152
+Carlos penis
+	bounds: 1924, 1241, 89, 76
+	rotate: 90
+Carlos penis2
+	bounds: 1924, 1150, 89, 76
+	rotate: 90
+Carlos pupils
+	bounds: 2, 3, 8, 11
+Carlos torso
+	bounds: 2, 546, 263, 405
+Cum string 2
+	bounds: 1924, 1589, 88, 162
+Isabell  eye
+	bounds: 768, 804, 48, 42
+Isabell L Shoulder
+	bounds: 1812, 810, 136, 141
+Isabell L asscheek
+	bounds: 983, 840, 176, 111
+Isabell L calf
+	bounds: 768, 848, 213, 103
+Isabell L hand
+	bounds: 141, 56, 226, 60
+	rotate: 90
+Isabell L hip
+	bounds: 2, 284, 233, 260
+Isabell R asscheek
+	bounds: 1650, 809, 142, 160
+	rotate: 90
+Isabell R hip
+	bounds: 267, 779, 272, 172
+Isabell anus
+	bounds: 1924, 1097, 54, 51
+Isabell anus2
+	bounds: 1924, 1044, 54, 51
+Isabell hair back
+	bounds: 1924, 1332, 76, 92
+Isabell head
+	bounds: 1487, 806, 145, 161
+	rotate: 90
+Isabell head 2
+	bounds: 1161, 806, 145, 161
+	rotate: 90
+Isabell head 3
+	bounds: 1324, 806, 145, 161
+	rotate: 90
+Isabell pupils
+	bounds: 141, 19, 35, 35
+Isabell pussy
+	bounds: 1924, 1426, 161, 109
+	rotate: 90
+Isabell torso
+	bounds: 267, 557, 168, 220
+bg
+	bounds: 2, 953, 1920, 1080
