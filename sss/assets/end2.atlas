@@ -1,0 +1,172 @@
+end2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_brow left
+	bounds: 2, 2, 40, 22
+2_brow right
+	bounds: 182, 62, 40, 22
+2_pupil left
+	bounds: 1345, 209, 23, 21
+2_pupil right
+	bounds: 1422, 235, 23, 21
+3_belok left
+	bounds: 1735, 630, 40, 24
+	rotate: 90
+3_belok right
+	bounds: 1600, 452, 40, 25
+3_lips
+	bounds: 1345, 232, 75, 24
+bg
+	bounds: 2, 931, 1922, 1082
+bg_table
+	bounds: 2, 656, 1568, 273
+computer 1
+	bounds: 513, 204, 590, 450
+computer 2
+	bounds: 513, 204, 590, 450
+eye_closed_1
+	bounds: 1770, 689, 43, 25
+eye_closed_2
+	bounds: 1926, 1987, 43, 26
+face
+	bounds: 1572, 672, 196, 257
+glasses
+	bounds: 2, 26, 178, 58
+hair
+	bounds: 1770, 716, 213, 166
+	rotate: 90
+hand left
+	bounds: 1345, 258, 253, 396
+hand right
+	bounds: 1105, 206, 238, 448
+nesk
+	bounds: 1600, 479, 191, 133
+	rotate: 90
+nose
+	bounds: 513, 131, 47, 71
+t-shirt
+	bounds: 2, 86, 509, 568
+veko 1
+	bounds: 513, 111, 42, 18
+veko 2
+	bounds: 562, 186, 43, 16
+
+end22.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_42
+	bounds: 2, 972, 732, 968
+mark_43
+	bounds: 2, 2, 732, 968
+mark_44
+	bounds: 736, 972, 732, 968
+mark_45
+	bounds: 736, 2, 732, 968
+
+end23.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_46
+	bounds: 2, 972, 732, 968
+mark_47
+	bounds: 2, 2, 732, 968
+mark_48
+	bounds: 736, 972, 732, 968
+mark_49
+	bounds: 736, 2, 732, 968
+
+end24.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_50
+	bounds: 2, 972, 732, 968
+mark_51
+	bounds: 2, 2, 732, 968
+mark_52
+	bounds: 736, 972, 732, 968
+mark_53
+	bounds: 736, 2, 732, 968
+
+end25.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_54
+	bounds: 2, 972, 732, 968
+mark_55
+	bounds: 2, 2, 732, 968
+mark_56
+	bounds: 736, 972, 732, 968
+mark_57
+	bounds: 736, 2, 732, 968
+
+end26.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_58
+	bounds: 2, 972, 732, 968
+mark_59
+	bounds: 2, 2, 732, 968
+mark_60
+	bounds: 736, 972, 732, 968
+mark_61
+	bounds: 736, 2, 732, 968
+
+end27.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_62
+	bounds: 2, 972, 732, 968
+mark_63
+	bounds: 2, 2, 732, 968
+mark_64
+	bounds: 736, 972, 732, 968
+mark_65
+	bounds: 736, 2, 732, 968
+
+end28.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_66
+	bounds: 2, 972, 732, 968
+mark_67
+	bounds: 2, 2, 732, 968
+mark_68
+	bounds: 736, 972, 732, 968
+mark_69
+	bounds: 736, 2, 732, 968
+
+end29.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_70
+	bounds: 2, 972, 732, 968
+mark_71
+	bounds: 2, 2, 732, 968
+mark_72
+	bounds: 736, 972, 732, 968
+mark_73
+	bounds: 736, 2, 732, 968
+
+end210.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_74
+	bounds: 2, 972, 732, 968
+mark_75
+	bounds: 2, 2, 732, 968
+mark_76
+	bounds: 736, 972, 732, 968
+mark_77
+	bounds: 736, 2, 732, 968
+
+end211.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+mark_78
+	bounds: 2, 972, 732, 968
+mark_79
+	bounds: 2, 2, 732, 968
+mark_80
+	bounds: 736, 972, 732, 968
+mark_81
+	bounds: 736, 2, 732, 968

@@ -1,0 +1,155 @@
+pos2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_brow 1
+	bounds: 718, 690, 35, 19
+1_brow 2
+	bounds: 777, 7, 35, 19
+1_eye_L
+	bounds: 2024, 1787, 42, 22
+	rotate: 90
+1_eye_R
+	bounds: 2024, 1743, 42, 22
+	rotate: 90
+1_lips
+	bounds: 1172, 664, 43, 39
+1_teeth
+	bounds: 893, 51, 32, 10
+	rotate: 90
+1_tongue
+	bounds: 700, 104, 33, 13
+1_under_eye
+	bounds: 619, 322, 35, 23
+2_brow 1
+	bounds: 2024, 1926, 46, 22
+	rotate: 90
+2_brow 2
+	bounds: 329, 153, 43, 25
+	rotate: 90
+2_eye_L
+	bounds: 2024, 1831, 45, 22
+	rotate: 90
+2_eye_R
+	bounds: 2026, 1005, 42, 20
+	rotate: 90
+2_lips_down
+	bounds: 356, 565, 43, 28
+2_lips_up
+	bounds: 2024, 1878, 46, 22
+	rotate: 90
+bg
+	bounds: 2, 966, 1920, 1080
+chest left
+	bounds: 1561, 509, 202, 215
+	rotate: 90
+chest right
+	bounds: 619, 347, 197, 216
+cum_1
+	bounds: 700, 2, 81, 75
+	rotate: 90
+cum_10
+	bounds: 818, 416, 63, 70
+cum_11
+	bounds: 1924, 958, 100, 89
+cum_12
+	bounds: 1822, 719, 23, 46
+	rotate: 90
+cum_13
+	bounds: 2024, 1713, 28, 22
+	rotate: 90
+cum_14
+	bounds: 142, 2, 17, 24
+	rotate: 90
+cum_15
+	bounds: 874, 594, 61, 38
+cum_16
+	bounds: 1004, 666, 55, 37
+cum_17
+	bounds: 1870, 713, 16, 29
+cum_2
+	bounds: 168, 2, 19, 17
+cum_3
+	bounds: 106, 2, 17, 34
+	rotate: 90
+cum_4
+	bounds: 296, 33, 31, 46
+cum_5
+	bounds: 1923, 868, 79, 88
+cum_6
+	bounds: 1061, 669, 58, 34
+cum_7
+	bounds: 214, 19, 80, 60
+cum_8
+	bounds: 2024, 1974, 22, 72
+cum_9
+	bounds: 106, 21, 106, 58
+face
+	bounds: 1924, 1049, 120, 178
+finger left
+	bounds: 2, 9, 70, 102
+	rotate: 90
+finger right
+	bounds: 777, 28, 55, 114
+	rotate: 90
+fingers left
+	bounds: 718, 565, 154, 112
+fingers left sh
+	bounds: 874, 634, 65, 69
+fingers right
+	bounds: 585, 2, 115, 113
+	rotate: 90
+fingers right sh
+	bounds: 818, 488, 61, 75
+hair 1
+	bounds: 1561, 713, 259, 251
+hair background
+	bounds: 1778, 512, 149, 199
+hand 1
+	bounds: 1924, 1424, 91, 214
+hand 2
+	bounds: 1822, 744, 99, 220
+hand left
+	bounds: 1924, 1229, 109, 193
+hand right
+	bounds: 585, 119, 148, 197
+leg 1 left
+	bounds: 431, 711, 439, 253
+leg 1 right
+	bounds: 872, 705, 365, 259
+leg left
+	bounds: 2, 595, 427, 369
+leg left_sh
+	bounds: 356, 318, 261, 245
+leg right
+	bounds: 2, 198, 352, 395
+leg right_sh
+	bounds: 356, 114, 227, 202
+lobok
+	bounds: 735, 175, 170, 166
+	rotate: 90
+lobok man
+	bounds: 1924, 1640, 406, 98
+	rotate: 90
+lobok_sh
+	bounds: 735, 85, 170, 88
+neck
+	bounds: 818, 347, 67, 52
+	rotate: 90
+nose
+	bounds: 1121, 666, 37, 49
+	rotate: 90
+penis
+	bounds: 2, 81, 115, 325
+	rotate: 90
+tongue
+	bounds: 1888, 713, 16, 29
+tors
+	bounds: 1239, 679, 285, 320
+	rotate: 90
+tors_sh
+	bounds: 431, 565, 285, 144
+vagina 1
+	bounds: 1923, 773, 93, 72
+	rotate: 90
+vagina 2
+	bounds: 941, 645, 61, 58

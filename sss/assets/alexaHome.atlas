@@ -1,0 +1,72 @@
+alexaHome.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_brow 1
+	bounds: 569, 455, 40, 19
+2_brow 2
+	bounds: 667, 746, 40, 16
+2_eye_L
+	bounds: 911, 1728, 24, 21
+2_eye_R
+	bounds: 474, 291, 24, 21
+2_hand left
+	bounds: 1658, 1760, 285, 380
+	rotate: 90
+2_lips
+	bounds: 784, 1636, 61, 24
+	rotate: 90
+2_t-shirt
+	bounds: 350, 1699, 460, 346
+brow 1
+	bounds: 784, 1591, 43, 17
+	rotate: 90
+brow 2
+	bounds: 613, 487, 43, 16
+chest
+	bounds: 1238, 1767, 418, 278
+closed eye L
+	bounds: 874, 1723, 35, 26
+closed eye R
+	bounds: 474, 314, 34, 26
+dick
+	bounds: 286, 179, 186, 184
+face
+	bounds: 569, 505, 137, 217
+hair
+	bounds: 286, 365, 281, 357
+hair background
+	bounds: 2, 2, 153, 288
+	rotate: 90
+hand left
+	bounds: 286, 724, 358, 336
+	rotate: 90
+hand right
+	bounds: 350, 1093, 256, 440
+	rotate: 90
+leg left
+	bounds: 2, 157, 282, 925
+leg right
+	bounds: 2, 1084, 346, 961
+lips
+	bounds: 474, 342, 58, 21
+neck
+	bounds: 292, 18, 184, 159
+nose
+	bounds: 812, 1702, 47, 60
+	rotate: 90
+pupil 2
+	bounds: 534, 342, 26, 21
+rainbow 1
+	bounds: 510, 319, 23, 21
+shorts
+	bounds: 624, 764, 327, 272
+	rotate: 90
+t-shirt
+	bounds: 350, 1351, 432, 346
+tors
+	bounds: 812, 1751, 294, 424
+	rotate: 90
+veko 1
+	bounds: 624, 736, 41, 26
+veko 2
+	bounds: 569, 476, 42, 27
