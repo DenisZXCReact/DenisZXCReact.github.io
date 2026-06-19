@@ -1,0 +1,202 @@
+3_1.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bals
+	bounds: 1924, 1526, 119, 109
+	rotate: 90
+bg
+	bounds: 2, 966, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+cum_10
+	bounds: 2029, 2025, 21, 14
+	rotate: 90
+cum_2
+	bounds: 1924, 1425, 97, 99
+cum_3
+	bounds: 2022, 564, 24, 67
+cum_4
+	bounds: 1447, 2, 22, 39
+	rotate: 90
+cum_5
+	bounds: 1924, 1006, 69, 95
+cum_6
+	bounds: 1924, 966, 38, 64
+	rotate: 90
+cum_7
+	bounds: 239, 10, 25, 44
+	rotate: 90
+cum_8
+	bounds: 1924, 1204, 108, 64
+	rotate: 90
+cum_9
+	bounds: 1488, 2, 48, 19
+eye_2_L_closed
+	bounds: 1997, 1362, 61, 49
+	offsets: 1, 1, 63, 51
+	rotate: 90
+eye_2_L_closed_lashes
+	bounds: 1990, 1132, 53, 37
+	offsets: 1, 1, 55, 39
+	rotate: 90
+eye_2_R_closed
+	bounds: 1387, 18, 58, 58
+	offsets: 1, 1, 60, 60
+eye_2_R_closed_lashes
+	bounds: 1447, 26, 47, 50
+	offsets: 1, 1, 49, 52
+eye_L_closed
+	bounds: 1944, 78, 50, 28
+eye_R_closed
+	bounds: 1996, 66, 36, 40
+eyebrow_L
+	bounds: 1802, 69, 69, 37
+eyebrow_R
+	bounds: 1325, 22, 54, 60
+	rotate: 90
+eyelashes_L_down
+	bounds: 2022, 524, 38, 24
+	offsets: 1, 1, 40, 26
+	rotate: 90
+eyelashes_L_down_under
+	bounds: 141, 7, 47, 28
+	offsets: 1, 1, 49, 30
+eyelashes_L_up
+	bounds: 1748, 26, 53, 32
+eyelashes_L_up_under
+	bounds: 1990, 1242, 61, 39
+	offsets: 1, 1, 63, 41
+	rotate: 90
+eyelashes_R_down
+	bounds: 1970, 30, 34, 34
+	offsets: 1, 1, 36, 36
+eyelashes_R_down_under
+	bounds: 1803, 23, 45, 44
+	offsets: 1, 1, 47, 46
+eyelashes_R_up
+	bounds: 1850, 20, 39, 47
+eyelashes_R_up_under
+	bounds: 1997, 1305, 49, 55
+	offsets: 1, 1, 51, 57
+girl_body
+	bounds: 2, 37, 1043, 927
+	offsets: 0, 118, 1043, 1045
+girl_hand_R
+	bounds: 1503, 24, 135, 243
+	rotate: 90
+hair
+	bounds: 1047, 491, 524, 473
+hand_L_1
+	bounds: 1573, 478, 233, 486
+hand_L_2
+	bounds: 1924, 1314, 109, 71
+	offsets: 1, 1, 111, 73
+	rotate: 90
+hand_R_1
+	bounds: 1808, 633, 331, 230
+	offsets: 0, 0, 331, 233
+	rotate: 90
+hand_R_2
+	bounds: 2, 2, 33, 50
+	offsets: 1, 1, 35, 52
+	rotate: 90
+head
+	bounds: 1809, 108, 220, 233
+	offsets: 0, 0, 237, 240
+iris_L
+	bounds: 2023, 1502, 23, 22
+	offsets: 1, 1, 25, 24
+iris_R
+	bounds: 2022, 497, 25, 24
+	offsets: 1, 1, 27, 26
+	rotate: 90
+lips_1
+	bounds: 1990, 1187, 53, 44
+	offsets: 1, 1, 55, 46
+	rotate: 90
+lips_2
+	bounds: 1891, 34, 40, 40
+titka_R
+	bounds: 1503, 161, 315, 304
+	offsets: 0, 0, 323, 304
+	rotate: 90
+titka_under
+	bounds: 1809, 343, 288, 211
+	rotate: 90
+wet_belly_1
+	bounds: 1924, 1828, 218, 103
+	rotate: 90
+wet_breast_1
+	bounds: 1873, 76, 69, 30
+	offsets: 1, 1, 71, 32
+wet_breast_2
+	bounds: 1503, 478, 33, 11
+	offsets: 1, 1, 35, 13
+wet_hand_L_1
+	bounds: 1748, 60, 52, 99
+	offsets: 1, 1, 54, 101
+wet_hand_L_2
+	bounds: 54, 8, 27, 85
+	offsets: 1, 1, 29, 87
+	rotate: 90
+wet_hand_R_1
+	bounds: 1165, 21, 158, 55
+	offsets: 1, 1, 160, 57
+wet_hand_R_2
+	bounds: 1924, 1103, 64, 99
+	offsets: 1, 1, 66, 101
+wet_leg_L_2
+	bounds: 1802, 148, 5, 11
+	offsets: 1, 1, 7, 13
+wet_man_arm_L
+	bounds: 1047, 2, 116, 74
+	offsets: 1, 1, 118, 76
+wet_man_arm_R
+	bounds: 1924, 1647, 112, 179
+wet_man_body
+	bounds: 1047, 78, 454, 411
+white_L
+	bounds: 190, 10, 47, 25
+	offsets: 1, 1, 49, 27
+white_R
+	bounds: 1933, 32, 35, 42
+	offsets: 1, 1, 37, 44
+
+3_2.webp
+	size: 1506, 1506
+	filter: Linear, Linear
+body
+	bounds: 2, 308, 743, 1196
+	offsets: 6, 0, 786, 1196
+cum_1
+	bounds: 828, 31, 180, 135
+cum_11
+	bounds: 1010, 150, 162, 142
+dick
+	bounds: 650, 63, 243, 176
+	offsets: 0, 0, 247, 176
+	rotate: 90
+girl_leg_R_1
+	bounds: 1044, 294, 269, 195
+table
+	bounds: 747, 491, 1013, 755
+	offsets: 1, 1, 1015, 757
+	rotate: 90
+titka_L
+	bounds: 2, 63, 243, 340
+	offsets: 18, 11, 261, 351
+	rotate: 90
+wet_dick
+	bounds: 828, 168, 173, 149
+wet_leg_L_1
+	bounds: 344, 114, 192, 304
+	offsets: 1, 1, 194, 306
+	rotate: 90
+wet_leg_R
+	bounds: 747, 319, 295, 170
+	offsets: 1, 1, 297, 172
+wet_tit_L
+	bounds: 1315, 147, 150, 163
+	rotate: 90
+wet_tit_R
+	bounds: 1315, 299, 190, 189
+	rotate: 90

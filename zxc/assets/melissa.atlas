@@ -1,96 +1,79 @@
-melissa1.webp
+melissa2m.webp
 	size: 2048, 2048
 	filter: Linear, Linear
-3_iris_L
-	bounds: 905, 1596, 13, 14
-3_iris_R
-	bounds: 1608, 2033, 13, 13
-3_lips
-	bounds: 849, 1612, 80, 32
-4_blik_L
-	bounds: 120, 34, 15, 11
-4_blik_R
-	bounds: 1124, 1647, 13, 9
-4_eye_L
-	bounds: 849, 1564, 25, 24
-4_eye_R
-	bounds: 1471, 1978, 25, 20
-4_eyebrow_L
-	bounds: 407, 207, 69, 22
+1_ball
+	bounds: 1779, 65, 195, 206
 	rotate: 90
-4_eyebrow_R
-	bounds: 826, 975, 69, 17
+1_body
+	bounds: 1220, 679, 1365, 640
 	rotate: 90
-4_eyelashes_L_down
-	bounds: 516, 716, 44, 16
-4_eyelashes_L_up
-	bounds: 516, 734, 54, 21
-4_eyelashes_R_down
-	bounds: 407, 154, 51, 15
+1_eye_closed_L
+	bounds: 1862, 1080, 144, 82
 	rotate: 90
-4_eyelashes_R_up
-	bounds: 1554, 2026, 52, 20
-4_iris_L
-	bounds: 50, 2, 12, 12
-pupil_L
-	bounds: 50, 2, 12, 12
-4_iris_R
-	bounds: 64, 2, 12, 12
-pupil_R
-	bounds: 64, 2, 12, 12
-4_lips
-	bounds: 2, 16, 66, 29
-4_white_L
-	bounds: 70, 26, 48, 19
-4_white_R
-	bounds: 442, 526, 46, 17
-blik_L
-	bounds: 407, 141, 15, 11
-blik_R
-	bounds: 431, 263, 13, 9
+1_eye_closed_R
+	bounds: 1862, 1389, 169, 72
 	rotate: 90
-blush
-	bounds: 442, 570, 185, 72
+1_eyebrow_1
+	bounds: 323, 23, 124, 39
+1_eyebrow_2
+	bounds: 1862, 1560, 235, 73
 	rotate: 90
-body
-	bounds: 2, 278, 438, 477
-eye_closed_L
-	bounds: 618, 765, 45, 20
-eye_closed_R
-	bounds: 686, 790, 45, 19
-eyebrow_L
-	bounds: 618, 787, 66, 22
-eyebrow_R
-	bounds: 442, 545, 65, 23
-eyelashes_L_Down
-	bounds: 931, 1620, 49, 24
-eyelashes_L_Up
-	bounds: 849, 1590, 54, 20
-eyelashes_R_Down
-	bounds: 2, 3, 46, 11
-eyelashes_R_Up
-	bounds: 1471, 2000, 53, 20
-hair
-	bounds: 1124, 1658, 345, 388
-hand_L
-	bounds: 618, 1046, 229, 598
-hand_R
-	bounds: 2, 47, 229, 403
+1_eyelash_L_1
+	bounds: 1862, 1226, 161, 66
 	rotate: 90
-head
-	bounds: 618, 811, 206, 233
-iris_L
-	bounds: 982, 1620, 25, 24
-iris_R
-	bounds: 1526, 2003, 25, 17
-legs
-	bounds: 2, 757, 614, 1289
-lips
-	bounds: 1471, 2022, 81, 24
-tits
-	bounds: 618, 1646, 504, 400
-white_L
-	bounds: 826, 928, 45, 17
+1_eyelash_L_2
+	bounds: 1987, 118, 142, 35
 	rotate: 90
-white_R
-	bounds: 572, 739, 44, 16
+1_eyelash_R_1
+	bounds: 1953, 1857, 187, 80
+	rotate: 90
+1_eyelash_R_2
+	bounds: 164, 15, 157, 47
+1_hair
+	bounds: 2, 655, 1216, 1389
+1_hand_L_1
+	bounds: 2, 64, 589, 1331
+	rotate: 90
+1_hand_R_1
+	bounds: 1779, 262, 243, 415
+1_lips
+	bounds: 1862, 1797, 247, 89
+	rotate: 90
+1_lyamka_1
+	bounds: 1335, 73, 442, 604
+1_pupil_L
+	bounds: 1937, 1739, 79, 56
+1_pupil_R
+	bounds: 1953, 1797, 83, 58
+1_white_L
+	bounds: 1862, 939, 139, 52
+	rotate: 90
+1_white_R
+	bounds: 2, 2, 160, 60
+
+melissa2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_hand_L
+	bounds: 1093, 2, 811, 959
+1_head
+	bounds: 1245, 1229, 622, 811
+1_neck
+	bounds: 2, 963, 1241, 1077
+1_tit_L
+	bounds: 2, 105, 856, 1089
+	rotate: 90
+
+melissa3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_hand_R
+	bounds: 1264, 1601, 315, 319
+1_hand_R_2
+	bounds: 988, 1463, 274, 457
+1_hand_R_3
+	bounds: 223, 452, 335, 380
+1_lyamka_2
+	bounds: 2, 2, 219, 830
+1_tit_R
+	bounds: 2, 834, 984, 1086
