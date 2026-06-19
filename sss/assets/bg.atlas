@@ -47,7 +47,7 @@ sky
 three
 	bounds: 2, 56, 1462, 905
 
-bg2.webp
+bg1_2.webp
 	size: 2048, 2048
 	filter: Linear, Linear
 kust
