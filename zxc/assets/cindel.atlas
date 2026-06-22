@@ -1,0 +1,46 @@
+cindel.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+brow
+	bounds: 995, 612, 27, 16
+brush left
+	bounds: 177, 52, 76, 53
+brush right
+	bounds: 889, 411, 83, 69
+chest left
+	bounds: 883, 630, 128, 166
+chest right
+	bounds: 655, 338, 142, 168
+	rotate: 90
+eye
+	bounds: 2, 22, 26, 20
+face
+	bounds: 883, 482, 110, 146
+hair
+	bounds: 2, 301, 399, 721
+hand
+	bounds: 343, 187, 112, 44
+	rotate: 90
+hand 11
+	bounds: 825, 383, 62, 97
+hand 22
+	bounds: 883, 798, 224, 85
+	rotate: 90
+jilet
+	bounds: 403, 212, 247, 194
+leg left
+	bounds: 655, 482, 226, 540
+leg right
+	bounds: 403, 408, 250, 614
+lips
+	bounds: 825, 362, 25, 19
+nesk
+	bounds: 970, 951, 52, 71
+plecho
+	bounds: 2, 44, 61, 173
+	rotate: 90
+shadow
+	bounds: 970, 898, 52, 51
+tors
+	bounds: 2, 107, 192, 339
+	rotate: 90

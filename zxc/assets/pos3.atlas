@@ -1,0 +1,141 @@
+pos3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+balls
+	bounds: 1932, 909, 82, 110
+bg
+	bounds: 2, 966, 1920, 1080
+body
+	bounds: 2, 346, 348, 618
+boobs_sh
+	bounds: 951, 66, 187, 55
+brow 1
+	bounds: 1983, 1552, 35, 28
+	rotate: 90
+brow 2
+	bounds: 89, 2, 67, 44
+chest left
+	bounds: 355, 53, 344, 353
+chest right
+	bounds: 2, 48, 296, 351
+	rotate: 90
+cum_1
+	bounds: 1982, 142, 45, 64
+	rotate: 90
+cum_10
+	bounds: 1651, 708, 20, 12
+	rotate: 90
+cum_11
+	bounds: 1815, 79, 19, 14
+cum_12
+	bounds: 1946, 496, 65, 59
+cum_13
+	bounds: 2004, 680, 42, 58
+cum_14
+	bounds: 1946, 557, 84, 57
+	rotate: 90
+cum_15
+	bounds: 951, 2, 62, 63
+	rotate: 90
+cum_16
+	bounds: 1093, 503, 21, 52
+cum_2
+	bounds: 1912, 88, 68, 68
+cum_3
+	bounds: 2016, 1943, 30, 40
+cum_4
+	bounds: 2004, 645, 33, 37
+	rotate: 90
+cum_5
+	bounds: 158, 2, 45, 44
+cum_6
+	bounds: 2016, 1924, 29, 17
+cum_7
+	bounds: 1757, 41, 56, 52
+cum_8
+	bounds: 2016, 979, 19, 40
+cum_9
+	bounds: 205, 19, 32, 27
+eyes 1 shirokie
+	bounds: 1975, 189, 123, 65
+	rotate: 90
+eyes 2
+	bounds: 1016, 5, 123, 59
+face woman
+	bounds: 1651, 730, 234, 279
+	rotate: 90
+fingers woman left
+	bounds: 1665, 496, 232, 279
+	rotate: 90
+fingers woman left sh 1
+	bounds: 1932, 810, 97, 88
+	rotate: 90
+fingers woman left sh 2
+	bounds: 1932, 740, 68, 98
+	rotate: 90
+fingers woman left sh 3
+	bounds: 1946, 643, 56, 95
+fingers woman left sh 4
+	bounds: 701, 13, 248, 108
+fingers woman right
+	bounds: 1627, 41, 128, 115
+fingers woman right 2
+	bounds: 2016, 1985, 30, 61
+fingers woman right sh 1
+	bounds: 1982, 117, 27, 23
+fingers woman right sh 2
+	bounds: 701, 389, 36, 17
+fingers woman right sh 3
+	bounds: 1627, 278, 31, 20
+hair 1
+	bounds: 1143, 686, 278, 506
+	rotate: 90
+hair 2
+	bounds: 1672, 158, 154, 301
+	rotate: 90
+hair 2_1
+	bounds: 1143, 472, 212, 520
+	rotate: 90
+hair 2_2
+	bounds: 1924, 1589, 90, 457
+hair 2_3
+	bounds: 1150, 300, 170, 520
+	rotate: 90
+hair_1_sh
+	bounds: 1924, 1231, 57, 356
+hair_3_sh
+	bounds: 1150, 118, 180, 475
+	rotate: 90
+hand 1
+	bounds: 753, 389, 338, 166
+hand 2
+	bounds: 701, 123, 264, 447
+	rotate: 90
+leg_1
+	bounds: 753, 557, 388, 407
+leg_2
+	bounds: 1672, 314, 180, 334
+	rotate: 90
+lips
+	bounds: 1836, 96, 74, 60
+nose
+	bounds: 2, 2, 44, 85
+	rotate: 90
+tors woman
+	bounds: 352, 408, 399, 556
+tors woman_sh_1
+	bounds: 1924, 1021, 208, 112
+	rotate: 90
+tors woman_sh_2
+	bounds: 1757, 95, 77, 61
+
+pos32.webp
+	size: 512, 512
+	filter: Linear, Linear
+hair_2_sh
+	bounds: 2, 42, 157, 465
+penis
+	bounds: 161, 78, 429, 170
+	rotate: 90
+poloski na grudi
+	bounds: 333, 333, 174, 174

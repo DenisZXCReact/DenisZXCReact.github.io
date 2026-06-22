@@ -1,0 +1,45 @@
+markS.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+belok left
+	bounds: 317, 170, 33, 20
+	rotate: 90
+belok right
+	bounds: 571, 272, 33, 20
+brow 1
+	bounds: 701, 417, 33, 14
+brow 2
+	bounds: 701, 555, 34, 14
+	rotate: 90
+closed eye L
+	bounds: 153, 2, 35, 26
+closed eye R
+	bounds: 190, 2, 34, 26
+face
+	bounds: 2, 8, 149, 195
+glasses
+	bounds: 153, 30, 136, 45
+hair
+	bounds: 153, 77, 162, 126
+hand
+	bounds: 342, 294, 357, 295
+legs
+	bounds: 2, 205, 338, 817
+lips
+	bounds: 998, 958, 64, 23
+	rotate: 90
+nesk
+	bounds: 701, 433, 145, 101
+nose
+	bounds: 342, 209, 36, 55
+	rotate: 90
+pupil left
+	bounds: 848, 519, 18, 15
+pupil right
+	bounds: 291, 61, 18, 14
+shadow
+	bounds: 342, 247, 227, 45
+short
+	bounds: 717, 536, 279, 486
+t-shirt
+	bounds: 342, 591, 373, 431
