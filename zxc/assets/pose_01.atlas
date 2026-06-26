@@ -1,0 +1,128 @@
+pose_01.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+3_body
+	bounds: 1238, 24, 673, 426
+3_boob_L
+	bounds: 640, 228, 596, 584
+3_boob_R
+	bounds: 1238, 452, 596, 510
+3_eye_L
+	bounds: 1913, 19, 96, 63
+	rotate: 90
+3_eye_R
+	bounds: 1977, 1132, 90, 59
+	rotate: 90
+3_eyebrow_L
+	bounds: 1100, 22, 99, 38
+3_eyebrow_R
+	bounds: 1201, 121, 105, 34
+	rotate: 90
+3_hair
+	bounds: 2, 259, 636, 553
+3_hair_down_R
+	bounds: 1926, 964, 101, 75
+	rotate: 90
+3_head_lips
+	bounds: 1926, 1067, 155, 49
+	rotate: 90
+3_iris_L
+	bounds: 2016, 1094, 36, 30
+	rotate: 90
+3_iris_R
+	bounds: 1990, 151, 36, 31
+3_nose
+	bounds: 1836, 463, 84, 195
+	rotate: 90
+3_white_L
+	bounds: 1201, 38, 81, 34
+	rotate: 90
+3_white_R
+	bounds: 2003, 994, 74, 29
+	rotate: 90
+bg
+	bounds: 2, 964, 1922, 1082
+centr_sh
+	bounds: 874, 62, 325, 164
+cum_1
+	bounds: 1926, 1541, 102, 179
+cum_2
+	bounds: 1926, 1362, 98, 177
+cum_3
+	bounds: 874, 8, 52, 224
+	rotate: 90
+cum_5
+	bounds: 1926, 1722, 114, 324
+cum_6
+	bounds: 1913, 210, 77, 123
+cum_7
+	bounds: 1913, 117, 75, 91
+dick
+	bounds: 2, 4, 253, 564
+	rotate: 90
+man_body
+	bounds: 2, 814, 1213, 148
+semen
+	bounds: 568, 2, 304, 224
+tit_L_sh
+	bounds: 1836, 549, 413, 210
+	rotate: 90
+z_eye_closed_L
+	bounds: 1977, 1070, 60, 37
+	rotate: 90
+z_eye_closed_R
+	bounds: 1992, 184, 60, 37
+	rotate: 90
+z_hair_back_L
+	bounds: 1913, 335, 126, 126
+z_hair_back_R
+	bounds: 1926, 1224, 100, 136
+z_lips_1
+	bounds: 1978, 32, 83, 47
+	rotate: 90
+z_lips_2
+	bounds: 1992, 246, 87, 47
+	rotate: 90
+
+pose_01_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+3_hair_down_L
+	bounds: 332, 470, 78, 65
+	rotate: 90
+3_head
+	bounds: 1116, 1662, 328, 383
+3_head_dubl
+	bounds: 2, 165, 328, 383
+3_sosok_L
+	bounds: 1446, 1577, 302, 251
+3_sosok_R
+	bounds: 403, 716, 259, 254
+boob_L
+	bounds: 541, 1609, 436, 573
+	rotate: 90
+boob_R
+	bounds: 2, 993, 435, 575
+cum_4
+	bounds: 2, 2, 161, 271
+	rotate: 90
+hand_L
+	bounds: 1817, 1869, 187, 176
+hand_R
+	bounds: 952, 1440, 167, 160
+	rotate: 90
+neck
+	bounds: 2, 1570, 537, 475
+sosok_L
+	bounds: 674, 1073, 259, 258
+sosok_R
+	bounds: 674, 1333, 276, 274
+tit_R_sh
+	bounds: 1446, 1830, 369, 215
+z_face
+	bounds: 439, 1271, 233, 297
+z_face_blank
+	bounds: 439, 972, 233, 297
+z_hair
+	bounds: 2, 550, 441, 399
+	rotate: 90

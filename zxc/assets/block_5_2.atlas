@@ -1,0 +1,94 @@
+block_5_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_lips
+	bounds: 2, 18, 97, 53
+Light_2
+	bounds: 2, 73, 1972, 1973
+eye_L
+	bounds: 338, 35, 60, 36
+eye_R
+	bounds: 187, 30, 73, 41
+eye_closed_L
+	bounds: 262, 33, 74, 38
+eye_closed_R
+	bounds: 101, 30, 84, 41
+eyebrow_L
+	bounds: 1976, 1876, 74, 25
+	rotate: 90
+eyebrow_R
+	bounds: 1976, 1952, 94, 33
+	rotate: 90
+veko_L
+	bounds: 101, 2, 48, 26
+veko_R
+	bounds: 2011, 1975, 71, 27
+	rotate: 90
+
+block_5_2_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_clothes_1_L
+	bounds: 817, 281, 182, 100
+2_clothes_1_R
+	bounds: 1001, 289, 148, 92
+2_clothes_2_L
+	bounds: 1797, 1307, 138, 120
+	rotate: 90
+2_clothes_2_R
+	bounds: 1797, 1177, 121, 128
+cloak
+	bounds: 2, 383, 1793, 1648
+clothes_1_L
+	bounds: 1797, 1591, 207, 86
+clothes_1_R
+	bounds: 191, 38, 178, 100
+clothes_2_L
+	bounds: 1797, 1447, 131, 142
+clothes_2_R
+	bounds: 2, 8, 130, 187
+	rotate: 90
+face
+	bounds: 1797, 1679, 234, 352
+face_2
+	bounds: 463, 147, 234, 352
+	rotate: 90
+korset
+	bounds: 2, 140, 459, 241
+necklace_1
+	bounds: 1797, 1026, 149, 89
+	rotate: 90
+necklace_2
+	bounds: 817, 157, 148, 122
+
+block_5_2_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_boobs
+	bounds: 1105, 65, 893, 813
+	rotate: 90
+Light_1
+	bounds: 2, 2, 1101, 956
+bg
+	bounds: 2, 960, 1922, 1082
+
+block_5_2_4.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_hair
+	bounds: 1368, 521, 617, 559
+2_legs
+	bounds: 2, 845, 732, 1158
+boobs
+	bounds: 1198, 2, 517, 525
+	rotate: 90
+hair
+	bounds: 674, 259, 584, 522
+	rotate: 90
+hands
+	bounds: 2, 269, 670, 574
+hat
+	bounds: 1368, 1082, 921, 496
+	rotate: 90
+legs
+	bounds: 736, 850, 630, 1153

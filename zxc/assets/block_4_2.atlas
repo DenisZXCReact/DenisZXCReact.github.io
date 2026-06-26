@@ -1,0 +1,59 @@
+block_4_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 964, 1922, 1082
+eye_L
+	bounds: 96, 208, 57, 25
+eye_R
+	bounds: 2, 167, 58, 25
+eye_closed_L
+	bounds: 1926, 1974, 59, 30
+eye_closed_R
+	bounds: 1987, 1974, 59, 30
+eyebrow_L
+	bounds: 2, 194, 92, 39
+eyebrow_R
+	bounds: 1926, 2006, 92, 40
+fringe_1
+	bounds: 2, 235, 1266, 727
+hand_L
+	bounds: 1270, 10, 266, 477
+	rotate: 90
+iris_L
+	bounds: 2, 141, 28, 24
+iris_R
+	bounds: 2020, 2017, 29, 24
+	rotate: 90
+lips
+	bounds: 1749, 231, 79, 45
+shirt
+	bounds: 1270, 278, 684, 633
+	rotate: 90
+veko_L
+	bounds: 1830, 252, 50, 24
+veko_R
+	bounds: 1905, 902, 60, 19
+	rotate: 90
+white_L
+	bounds: 1749, 207, 57, 22
+white_R
+	bounds: 1926, 1949, 51, 23
+
+block_4_2_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+face
+	bounds: 536, 493, 280, 347
+fringe_2
+	bounds: 2, 842, 1922, 1082
+fringe_3
+	bounds: 2, 136, 532, 704
+hair
+	bounds: 818, 543, 309, 297
+
+block_4_2_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+fringe_4
+	bounds: 2, 842, 1922, 1082
