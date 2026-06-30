@@ -2,171 +2,203 @@ pose_03.webp
 	size: 2048, 2048
 	filter: Linear, Linear
 1_lips
-	bounds: 292, 2, 68, 48
-	rotate: 90
+	bounds: 1657, 19, 66, 46
+	offsets: 1, 1, 68, 48
 2_hand_R_22
-	bounds: 1845, 457, 248, 160
-	rotate: 90
+	bounds: 1523, 67, 238, 151
+	offsets: 10, 9, 248, 160
 2_hand_R_23
-	bounds: 1004, 15, 132, 34
+	bounds: 1523, 33, 132, 32
+	offsets: 0, 2, 132, 34
 2_lips
-	bounds: 342, 16, 74, 54
+	bounds: 697, 27, 67, 47
+	offsets: 4, 5, 74, 54
 2_m_head_mouth_down
-	bounds: 1138, 8, 67, 41
+	bounds: 766, 0, 59, 35
+	offsets: 8, 6, 67, 41
 2_m_head_mouth_up
-	bounds: 418, 17, 71, 53
+	bounds: 822, 47, 63, 34
+	offsets: 8, 19, 71, 53
 balls_sh
-	bounds: 1926, 1866, 180, 120
+	bounds: 1922, 1868, 180, 120
 	rotate: 90
 bg
-	bounds: 2, 964, 1922, 1082
-cum_1
-	bounds: 1990, 829, 53, 133
-cum_2
-	bounds: 2, 20, 171, 50
-cum_3
-	bounds: 1004, 260, 61, 37
+	bounds: 0, 968, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+boob_L
+	bounds: 0, 0, 325, 264
 	rotate: 90
+cum_1
+	bounds: 1951, 575, 53, 99
+	offsets: 0, 0, 53, 133
+cum_2
+	bounds: 437, 24, 171, 50
+cum_3
+	bounds: 2006, 579, 61, 37
+	rotate: 90
+cum_4
+	bounds: 1922, 1096, 95, 148
 cum_5
-	bounds: 1926, 1730, 120, 134
-dick
-	bounds: 556, 10, 446, 311
+	bounds: 1922, 1394, 120, 134
 eye_closed_L
-	bounds: 1004, 213, 45, 35
+	bounds: 827, 0, 45, 35
 	rotate: 90
 eye_closed_R
-	bounds: 2009, 65, 54, 37
-	rotate: 90
+	bounds: 766, 37, 54, 37
 finger_sh_1
-	bounds: 175, 21, 115, 49
-finger_sh_2
-	bounds: 1907, 2, 117, 100
+	bounds: 1763, 107, 111, 49
+	offsets: 2, 0, 115, 49
 	rotate: 90
 girl_Leg_L
-	bounds: 2, 323, 639, 1039
+	bounds: 0, 327, 639, 1013
+	offsets: 0, 26, 639, 1039
 	rotate: 90
 girl_hand_sh_1
-	bounds: 1907, 121, 90, 139
-	rotate: 90
+	bounds: 1951, 835, 90, 139
 hair_back_L
-	bounds: 1926, 1390, 110, 170
+	bounds: 1922, 1696, 110, 170
 hair_back_R
-	bounds: 1990, 742, 48, 85
-hand_L_2
-	bounds: 1926, 1071, 76, 169
-hand_R_21
-	bounds: 1004, 51, 400, 152
-iris_L
-	bounds: 1207, 2, 21, 19
+	bounds: 610, 26, 48, 85
 	rotate: 90
-iris_R
-	bounds: 491, 2, 25, 20
-m_body_22
-	bounds: 1043, 205, 757, 800
-	rotate: 90
-m_body_22_sh
-	bounds: 1845, 213, 242, 190
-	rotate: 90
-m_eye_closed_L
-	bounds: 2009, 20, 35, 43
-m_eye_closed_R
-	bounds: 1207, 25, 23, 24
-m_hand_L_2
-	bounds: 1406, 22, 321, 181
-m_hand_L_3
-	bounds: 1845, 707, 143, 255
-m_leg_L_1
-	bounds: 2, 72, 249, 552
-	rotate: 90
-man_head_jaw
-	bounds: 1926, 1242, 104, 146
-man_head_jaw_lip
-	bounds: 491, 24, 32, 46
-man_head_up_line
-	bounds: 2007, 665, 40, 39
-	rotate: 90
-man_head_up_upper_lip
-	bounds: 2007, 631, 39, 32
-neck
-	bounds: 1729, 4, 199, 176
-	rotate: 90
-pussy
-	bounds: 1926, 964, 118, 105
-sosok_L
-	bounds: 1926, 1562, 166, 118
-	rotate: 90
-white_L
-	bounds: 2004, 1208, 42, 32
-white_R
-	bounds: 1990, 707, 50, 33
-
-pose_03_2.webp
-	size: 2048, 2048
-	filter: Linear, Linear
-2_boob_L
-	bounds: 458, 369, 318, 274
-2_hand_R_11
-	bounds: 773, 752, 281, 333
-2_hand_R_11_sh
-	bounds: 1122, 1730, 346, 311
-2_m_head_jaw_open
-	bounds: 916, 162, 132, 133
-2_m_head_jaw_open_clean
-	bounds: 1273, 912, 132, 133
-2_m_neck
-	bounds: 778, 297, 166, 214
-	rotate: 90
-2_sosok_L
-	bounds: 181, 22, 176, 130
-body
-	bounds: 2, 1325, 672, 716
-boob_L
-	bounds: 407, 103, 325, 264
-boob_R
-	bounds: 766, 1087, 321, 294
-cum_4
-	bounds: 1376, 1335, 95, 148
-cum_6
-	bounds: 734, 125, 180, 170
-girl_hand_sh_2
-	bounds: 1122, 1485, 340, 243
-hair
-	bounds: 2, 154, 403, 400
-hair_pick
-	bounds: 1273, 800, 110, 116
-	rotate: 90
-hand_L_1
-	bounds: 676, 1638, 444, 403
 hand_L_1_1
-	bounds: 1850, 1754, 86, 73
+	bounds: 1951, 676, 84, 71
+	offsets: 1, 1, 86, 73
+hand_L_2
+	bounds: 266, 2, 72, 169
+	offsets: 0, 0, 76, 169
+	rotate: 90
 hand_L_3
-	bounds: 1376, 1249, 85, 84
-hand_R_22
-	bounds: 1850, 1829, 212, 174
+	bounds: 1951, 749, 85, 84
+hand_R_21
+	bounds: 1817, 566, 400, 132
+	offsets: 0, 0, 400, 152
 	rotate: 90
 head
-	bounds: 1089, 1047, 202, 252
+	bounds: 1269, 16, 202, 252
+	rotate: 90
+iris_L
+	bounds: 437, 5, 19, 17
+	offsets: 1, 1, 21, 19
+iris_R
+	bounds: 981, 63, 23, 18
+	offsets: 1, 1, 25, 20
+m_body_22
+	bounds: 1015, 220, 746, 800
+	offsets: 11, 0, 757, 800
+	rotate: 90
+m_body_22_sh
+	bounds: 820, 83, 242, 190
+	rotate: 90
+m_eye_closed_L
+	bounds: 1763, 70, 35, 43
+	rotate: 90
+m_eye_closed_R
+	bounds: 610, 0, 23, 24
+m_hand_L_2
+	bounds: 1817, 245, 319, 179
+	offsets: 1, 1, 321, 181
+	rotate: 90
+m_hand_L_3
+	bounds: 1012, 75, 143, 255
+	rotate: 90
+m_leg_L_1
+	bounds: 266, 76, 249, 552
+	rotate: 90
+m_neck
+	bounds: 1817, 0, 213, 243
+	offsets: 1, 1, 215, 245
+man_head_jaw
+	bounds: 1922, 1246, 104, 146
+man_head_jaw_lip
+	bounds: 1725, 19, 32, 46
+man_head_up_line
+	bounds: 939, 42, 40, 39
+man_head_up_upper_lip
+	bounds: 864, 6, 39, 32
+	rotate: 90
+pussy
+	bounds: 1922, 976, 118, 105
+	rotate: 90
+sosok_L
+	bounds: 1922, 1530, 164, 116
+	offsets: 1, 1, 166, 118
+	rotate: 90
+white_L
+	bounds: 2006, 642, 42, 32
+white_R
+	bounds: 887, 48, 50, 33
+
+pose_03_2.webp
+	size: 1652, 1652
+	filter: Linear, Linear
+2_boob_L
+	bounds: 1315, 644, 318, 274
+	rotate: 90
+2_hand_R_11
+	bounds: 1305, 309, 281, 333
+2_hand_R_11_sh
+	bounds: 1122, 964, 346, 311
+2_m_head_jaw_open
+	bounds: 391, 33, 132, 128
+	offsets: 0, 5, 132, 133
+	rotate: 90
+2_m_head_jaw_open_clean
+	bounds: 521, 47, 132, 128
+	offsets: 0, 5, 132, 133
+2_m_neck
+	bounds: 0, 1, 164, 212
+	offsets: 1, 1, 166, 214
+	rotate: 90
+2_sosok_L
+	bounds: 764, 131, 174, 128
+	offsets: 1, 1, 176, 130
+body
+	bounds: 0, 936, 672, 716
+boob_R
+	bounds: 1009, 350, 321, 294
+	rotate: 90
+cum_6
+	bounds: 1472, 1275, 180, 170
+dick
+	bounds: 674, 983, 446, 267
+	offsets: 0, 44, 446, 311
+finger_sh_2
+	bounds: 1470, 972, 117, 100
+girl_hand_sh_2
+	bounds: 764, 261, 340, 243
+	rotate: 90
+hair
+	bounds: 674, 1252, 403, 400
+hair_pick
+	bounds: 655, 19, 110, 116
+	rotate: 90
+hand_L_1
+	bounds: 1079, 1277, 391, 375
+	offsets: 0, 28, 444, 403
+hand_R_22
+	bounds: 1472, 1447, 205, 174
+	offsets: 7, 0, 212, 174
 	rotate: 90
 leg_sh
-	bounds: 1470, 1767, 274, 378
-	rotate: 90
+	bounds: 709, 603, 274, 378
 m_body_2
-	bounds: 778, 465, 285, 250
-	rotate: 90
+	bounds: 1009, 98, 285, 250
 m_hand_L_1
-	bounds: 676, 1383, 253, 414
-	rotate: 90
+	bounds: 456, 522, 251, 412
+	offsets: 1, 1, 253, 414
 m_hand_sh
-	bounds: 1092, 1251, 282, 232
+	bounds: 1296, 75, 282, 232
 m_leg_L_2
-	bounds: 2, 556, 454, 767
-m_neck
-	bounds: 1056, 800, 215, 245
+	bounds: 0, 167, 454, 767
 man_head_up
-	bounds: 458, 645, 333, 313
+	bounds: 985, 673, 328, 289
+	offsets: 0, 24, 333, 313
+neck
+	bounds: 1470, 1074, 199, 176
 	rotate: 90
 semen
-	bounds: 458, 980, 306, 343
+	bounds: 456, 177, 306, 343
 sosok_R
-	bounds: 2, 2, 150, 177
+	bounds: 214, 17, 148, 175
+	offsets: 1, 1, 150, 177
 	rotate: 90

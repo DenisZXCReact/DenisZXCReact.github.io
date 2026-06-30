@@ -2,127 +2,140 @@ pose_01.webp
 	size: 2048, 2048
 	filter: Linear, Linear
 3_body
-	bounds: 1238, 24, 673, 426
+	bounds: 1236, 540, 673, 426
 3_boob_L
-	bounds: 640, 228, 596, 584
+	bounds: 638, 310, 596, 508
+	offsets: 0, 0, 596, 584
 3_boob_R
-	bounds: 1238, 452, 596, 510
+	bounds: 1236, 36, 596, 502
+	offsets: 0, 8, 596, 510
 3_eye_L
-	bounds: 1913, 19, 96, 63
-	rotate: 90
+	bounds: 796, 28, 96, 63
 3_eye_R
-	bounds: 1977, 1132, 90, 59
-	rotate: 90
+	bounds: 894, 32, 90, 59
 3_eyebrow_L
-	bounds: 1100, 22, 99, 38
+	bounds: 157, 20, 97, 36
+	offsets: 1, 1, 99, 38
 3_eyebrow_R
-	bounds: 1201, 121, 105, 34
-	rotate: 90
+	bounds: 1318, 2, 103, 32
+	offsets: 1, 1, 105, 34
 3_hair
-	bounds: 2, 259, 636, 553
+	bounds: 0, 293, 636, 525
+	offsets: 0, 28, 636, 553
+3_hair_down_L
+	bounds: 1922, 929, 78, 65
 3_hair_down_R
-	bounds: 1926, 964, 101, 75
-	rotate: 90
+	bounds: 693, 16, 101, 75
 3_head_lips
-	bounds: 1926, 1067, 155, 49
-	rotate: 90
+	bounds: 0, 7, 155, 49
 3_iris_L
-	bounds: 2016, 1094, 36, 30
+	bounds: 1530, 0, 34, 28
+	offsets: 1, 1, 36, 30
 	rotate: 90
 3_iris_R
-	bounds: 1990, 151, 36, 31
+	bounds: 1499, 0, 34, 29
+	offsets: 1, 1, 36, 31
+	rotate: 90
 3_nose
-	bounds: 1836, 463, 84, 195
+	bounds: 1834, 39, 84, 195
 	rotate: 90
 3_white_L
-	bounds: 1201, 38, 81, 34
-	rotate: 90
+	bounds: 1235, 0, 81, 34
 3_white_R
-	bounds: 2003, 994, 74, 29
-	rotate: 90
+	bounds: 1423, 5, 74, 29
 bg
-	bounds: 2, 964, 1922, 1082
-centr_sh
-	bounds: 874, 62, 325, 164
+	bounds: 0, 968, 1920, 1080
+	offsets: 1, 1, 1922, 1082
 cum_1
-	bounds: 1926, 1541, 102, 179
+	bounds: 1922, 1259, 102, 156
+	offsets: 0, 23, 102, 179
 cum_2
-	bounds: 1926, 1362, 98, 177
+	bounds: 1922, 1417, 98, 177
 cum_3
-	bounds: 874, 8, 52, 224
-	rotate: 90
+	bounds: 562, 78, 52, 213
+	offsets: 0, 0, 52, 224
 cum_5
-	bounds: 1926, 1722, 114, 324
+	bounds: 1922, 1724, 114, 324
 cum_6
-	bounds: 1913, 210, 77, 123
+	bounds: 1922, 996, 73, 123
+	offsets: 0, 0, 77, 123
 cum_7
-	bounds: 1913, 117, 75, 91
+	bounds: 616, 0, 75, 91
 dick
-	bounds: 2, 4, 253, 564
+	bounds: 0, 58, 233, 560
+	offsets: 20, 0, 253, 564
 	rotate: 90
 man_body
-	bounds: 2, 814, 1213, 148
+	bounds: 0, 820, 1211, 146
+	offsets: 1, 1, 1213, 148
 semen
-	bounds: 568, 2, 304, 224
+	bounds: 1009, 4, 304, 224
+	rotate: 90
 tit_L_sh
-	bounds: 1836, 549, 413, 210
+	bounds: 1834, 125, 413, 210
 	rotate: 90
+tit_R_sh
+	bounds: 638, 93, 369, 215
 z_eye_closed_L
-	bounds: 1977, 1070, 60, 37
-	rotate: 90
+	bounds: 1834, 0, 60, 37
 z_eye_closed_R
-	bounds: 1992, 184, 60, 37
-	rotate: 90
+	bounds: 1896, 0, 60, 37
 z_hair_back_L
-	bounds: 1913, 335, 126, 126
+	bounds: 1922, 1596, 126, 126
 z_hair_back_R
-	bounds: 1926, 1224, 100, 136
+	bounds: 1922, 1121, 100, 136
 z_lips_1
-	bounds: 1978, 32, 83, 47
-	rotate: 90
+	bounds: 343, 11, 81, 45
+	offsets: 1, 1, 83, 47
 z_lips_2
-	bounds: 1992, 246, 87, 47
-	rotate: 90
+	bounds: 256, 11, 85, 45
+	offsets: 1, 1, 87, 47
 
 pose_01_2.webp
-	size: 2048, 2048
+	size: 1384, 1384
 	filter: Linear, Linear
-3_hair_down_L
-	bounds: 332, 470, 78, 65
-	rotate: 90
 3_head
-	bounds: 1116, 1662, 328, 383
+	bounds: 438, 682, 328, 383
+	rotate: 90
 3_head_dubl
-	bounds: 2, 165, 328, 383
+	bounds: 437, 297, 328, 383
 3_sosok_L
-	bounds: 1446, 1577, 302, 251
+	bounds: 823, 690, 302, 251
 3_sosok_R
-	bounds: 403, 716, 259, 254
+	bounds: 1127, 682, 259, 254
+	rotate: 90
 boob_L
-	bounds: 541, 1609, 436, 573
-	rotate: 90
+	bounds: 0, 811, 436, 573
 boob_R
-	bounds: 2, 993, 435, 575
+	bounds: 0, 235, 435, 574
+	offsets: 0, 0, 435, 575
+centr_sh
+	bounds: 767, 357, 323, 162
+	offsets: 1, 1, 325, 164
+	rotate: 90
 cum_4
-	bounds: 2, 2, 161, 271
-	rotate: 90
+	bounds: 931, 418, 157, 270
+	offsets: 0, 0, 161, 271
 hand_L
-	bounds: 1817, 1869, 187, 176
-hand_R
-	bounds: 952, 1440, 167, 160
+	bounds: 930, 168, 187, 176
 	rotate: 90
+hand_R
+	bounds: 930, 6, 165, 160
+	offsets: 2, 0, 167, 160
 neck
-	bounds: 2, 1570, 537, 475
+	bounds: 438, 1012, 535, 372
+	offsets: 0, 102, 537, 475
 sosok_L
-	bounds: 674, 1073, 259, 258
+	bounds: 670, 36, 259, 258
+	rotate: 90
 sosok_R
-	bounds: 674, 1333, 276, 274
-tit_R_sh
-	bounds: 1446, 1830, 369, 215
+	bounds: 1090, 406, 276, 274
 z_face
-	bounds: 439, 1271, 233, 297
+	bounds: 437, 0, 231, 295
+	offsets: 1, 1, 233, 297
 z_face_blank
-	bounds: 439, 972, 233, 297
+	bounds: 0, 0, 233, 297
+	rotate: 90
 z_hair
-	bounds: 2, 550, 441, 399
+	bounds: 975, 943, 441, 399
 	rotate: 90
