@@ -1,0 +1,154 @@
+mr1.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_belok left
+	bounds: 1926, 1839, 43, 27
+2_belok right
+	bounds: 1302, 247, 44, 27
+2_brow left
+	bounds: 1805, 725, 40, 22
+2_brow right
+	bounds: 1109, 88, 40, 22
+2_lips
+	bounds: 1109, 112, 53, 27
+2_pupil left
+	bounds: 1348, 253, 23, 21
+2_pupil right
+	bounds: 1926, 1816, 23, 21
+3_belok left
+	bounds: 1737, 699, 40, 24
+3_belok right
+	bounds: 923, 51, 40, 25
+3_lips
+	bounds: 2, 10, 75, 24
+belok left
+	bounds: 79, 10, 43, 24
+belok right
+	bounds: 850, 2, 43, 25
+bg
+	bounds: 2, 964, 1922, 1082
+brow
+	bounds: 923, 29, 44, 20
+brow left
+	bounds: 1905, 918, 44, 18
+	rotate: 90
+eye_closed_1
+	bounds: 895, 2, 43, 25
+eye_closed_2
+	bounds: 1986, 2020, 43, 26
+face
+	bounds: 850, 78, 196, 257
+	rotate: 90
+glasses
+	bounds: 1926, 1868, 178, 58
+	rotate: 90
+hair
+	bounds: 1737, 749, 213, 166
+	rotate: 90
+hand left
+	bounds: 452, 21, 253, 396
+	rotate: 90
+hand right
+	bounds: 2, 36, 238, 448
+	rotate: 90
+lips
+	bounds: 1737, 725, 66, 22
+monitor_shine
+	bounds: 2, 276, 1733, 686
+nesk
+	bounds: 1109, 141, 191, 133
+nose
+	bounds: 850, 29, 47, 71
+	rotate: 90
+pupil left
+	bounds: 1986, 2002, 22, 16
+pupil right
+	bounds: 124, 18, 22, 16
+veko 1
+	bounds: 1164, 121, 42, 18
+veko 2
+	bounds: 1302, 229, 43, 16
+
+mr12.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg_sh
+	bounds: 2, 935, 1922, 1082
+computer 1
+	bounds: 1567, 343, 590, 450
+	rotate: 90
+computer 2
+	bounds: 1567, 343, 590, 450
+	rotate: 90
+t-shirt
+	bounds: 1056, 365, 509, 568
+zasos_00
+	bounds: 2, 49, 884, 1052
+	rotate: 90
+
+mr13.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+zasos_01
+	bounds: 2, 888, 884, 1052
+zasos_02
+	bounds: 888, 888, 884, 1052
+zasos_03
+	bounds: 2, 2, 884, 1052
+	rotate: 90
+
+mr14.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+zasos_04
+	bounds: 2, 888, 884, 1052
+zasos_05
+	bounds: 888, 888, 884, 1052
+zasos_06
+	bounds: 2, 2, 884, 1052
+	rotate: 90
+
+mr15.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+zasos_07
+	bounds: 2, 888, 884, 1052
+zasos_08
+	bounds: 888, 888, 884, 1052
+zasos_09
+	bounds: 2, 2, 884, 1052
+	rotate: 90
+
+mr16.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+zasos_10
+	bounds: 2, 888, 884, 1052
+zasos_11
+	bounds: 888, 888, 884, 1052
+zasos_12
+	bounds: 2, 2, 884, 1052
+	rotate: 90
+
+mr17.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+zasos_13
+	bounds: 2, 888, 884, 1052
+zasos_14
+	bounds: 888, 888, 884, 1052
+zasos_15
+	bounds: 2, 2, 884, 1052
+	rotate: 90
+
+mr18.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg_sh_L
+	bounds: 828, 552, 696, 1082
+bg_sh_R
+	bounds: 2, 552, 824, 1082
+bg_table
+	bounds: 2, 277, 1568, 273
+bg_table_sh
+	bounds: 2, 2, 1568, 273

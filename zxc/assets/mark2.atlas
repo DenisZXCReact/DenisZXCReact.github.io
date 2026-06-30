@@ -1,0 +1,60 @@
+mark2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+2_lips
+	bounds: 318, 582, 55, 47
+belok left
+	bounds: 1077, 1291, 34, 25
+belok right
+	bounds: 158, 291, 25, 23
+brow left
+	bounds: 1311, 1412, 43, 32
+brow right
+	bounds: 134, 144, 29, 18
+	rotate: 90
+ear
+	bounds: 499, 820, 39, 62
+elbow
+	bounds: 1557, 1540, 95, 150
+face
+	bounds: 1077, 1412, 232, 278
+glasses
+	bounds: 158, 316, 198, 61
+	rotate: 90
+hair
+	bounds: 1311, 1446, 244, 244
+hand left
+	bounds: 2, 516, 314, 366
+leg 1
+	bounds: 318, 631, 251, 179
+	rotate: 90
+leg 2
+	bounds: 2, 884, 538, 347
+lips
+	bounds: 542, 994, 47, 43
+nesk
+	bounds: 2, 32, 130, 141
+nose
+	bounds: 640, 1236, 44, 62
+	rotate: 90
+palm left
+	bounds: 542, 1039, 192, 91
+	rotate: 90
+palm right
+	bounds: 1077, 1318, 92, 174
+	rotate: 90
+pupil left
+	bounds: 221, 500, 14, 14
+pupil right
+	bounds: 1557, 1524, 14, 14
+shorts
+	bounds: 640, 1282, 435, 408
+shoulder
+	bounds: 2, 175, 339, 154
+	rotate: 90
+t-shirt
+	bounds: 2, 1233, 636, 457
+veko 1
+	bounds: 1253, 1386, 25, 24
+veko 2
+	bounds: 2, 2, 38, 28
