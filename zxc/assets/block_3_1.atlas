@@ -1,0 +1,139 @@
+block_3_1.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_eyebrow_L
+	bounds: 1929, 844, 58, 32
+1_eyebrow_R
+	bounds: 33, 28, 58, 31
+1_eyelashes_L_1
+	bounds: 1989, 1403, 48, 26
+	rotate: 90
+1_eyelashes_L_2
+	bounds: 134, 2, 42, 22
+1_eyelashes_R_1
+	bounds: 1960, 795, 47, 26
+	rotate: 90
+1_eyelashes_R_2
+	bounds: 89, 2, 43, 22
+1_lips
+	bounds: 2019, 1465, 52, 27
+	rotate: 90
+2_eye_closed_L
+	bounds: 150, 28, 53, 31
+2_eye_closed_L_2
+	bounds: 1989, 1453, 64, 28
+	rotate: 90
+2_eye_closed_R
+	bounds: 1929, 783, 59, 29
+	rotate: 90
+2_eye_closed_R_2
+	bounds: 33, 2, 54, 24
+2_eye_lid_L
+	bounds: 205, 27, 52, 32
+2_eye_lid_R
+	bounds: 259, 26, 50, 33
+2_eyebrow_L
+	bounds: 2, 2, 57, 29
+	rotate: 90
+2_eyebrow_R
+	bounds: 1929, 726, 55, 29
+	rotate: 90
+2_eyelashes_L
+	bounds: 1929, 680, 44, 23
+	rotate: 90
+2_eyelashes_R
+	bounds: 178, 2, 45, 23
+2_lips
+	bounds: 93, 26, 55, 33
+2_pupil_L
+	bounds: 225, 9, 17, 16
+2_pupil_R
+	bounds: 1989, 860, 21, 16
+2_white_L
+	bounds: 1989, 1367, 34, 17
+	rotate: 90
+2_white_R
+	bounds: 1960, 760, 33, 17
+	rotate: 90
+bg
+	bounds: 2, 964, 1922, 1082
+body
+	bounds: 880, 278, 441, 684
+boob_L
+	bounds: 1701, 19, 330, 332
+boob_R
+	bounds: 1338, 38, 361, 313
+hair
+	bounds: 1323, 353, 609, 399
+	rotate: 90
+hand_L_1
+	bounds: 1926, 1020, 81, 132
+hand_R_3
+	bounds: 1724, 365, 84, 135
+	rotate: 90
+leg_L_2
+	bounds: 1926, 1519, 117, 527
+leg_L_3
+	bounds: 1724, 451, 203, 511
+leg_R_2
+	bounds: 880, 28, 248, 456
+	rotate: 90
+pena_1
+	bounds: 311, 26, 33, 33
+pena_2
+	bounds: 1929, 878, 84, 84
+pena_3
+	bounds: 1926, 1154, 363, 61
+	rotate: 90
+pena_5
+	bounds: 1926, 964, 79, 54
+pena_7
+	bounds: 1861, 353, 51, 96
+water
+	bounds: 2, 61, 876, 901
+water_1
+	bounds: 1323, 332, 19, 13
+	rotate: 90
+
+block_3_1_2.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+1_face
+	bounds: 325, 822, 200, 254
+	rotate: 90
+2_face
+	bounds: 2, 324, 200, 254
+hand_L_2
+	bounds: 814, 761, 133, 135
+hand_L_3
+	bounds: 204, 339, 156, 239
+hand_R_1
+	bounds: 283, 596, 185, 141
+	rotate: 90
+hand_R_2
+	bounds: 2, 71, 251, 149
+	rotate: 90
+leg_L_1
+	bounds: 362, 419, 122, 175
+leg_R_1
+	bounds: 581, 772, 124, 231
+	rotate: 90
+leg_R_3
+	bounds: 2, 783, 321, 239
+pena_10
+	bounds: 2, 580, 279, 201
+pena_11
+	bounds: 576, 626, 144, 179
+	rotate: 90
+pena_4
+	bounds: 153, 125, 197, 161
+	rotate: 90
+pena_6
+	bounds: 426, 642, 178, 148
+	rotate: 90
+pena_8
+	bounds: 581, 898, 124, 328
+	rotate: 90
+pena_9
+	bounds: 153, 2, 121, 176
+	rotate: 90

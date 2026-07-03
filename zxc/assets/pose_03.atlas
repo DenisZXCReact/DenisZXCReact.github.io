@@ -1,0 +1,250 @@
+pose_03.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_blick_L
+	bounds: 276, 2, 10, 10
+1_blick_R
+	bounds: 2034, 1342, 12, 12
+1_eyebrow_L
+	bounds: 1580, 432, 16, 15
+1_eyebrow_R
+	bounds: 1524, 637, 59, 27
+1_eyebrow_R_down
+	bounds: 1926, 964, 37, 55
+	rotate: 90
+1_eyelashes_L_down
+	bounds: 1147, 495, 23, 19
+	rotate: 90
+1_eyelashes_L_up
+	bounds: 1585, 639, 25, 11
+	rotate: 90
+1_eyelashes_R_down
+	bounds: 1959, 431, 48, 29
+1_eyelashes_R_up
+	bounds: 1905, 430, 52, 30
+1_eyelid_L_down
+	bounds: 1615, 2, 21, 26
+1_eyelid_L_up_ver2
+	bounds: 2027, 1733, 25, 15
+	rotate: 90
+1_eyelid_R_down
+	bounds: 1016, 35, 57, 43
+1_eyelid_R_up
+	bounds: 1166, 99, 57, 33
+1_lips_1
+	bounds: 2022, 1239, 52, 24
+	rotate: 90
+1_lips_2
+	bounds: 1125, 87, 42, 39
+	rotate: 90
+1_pupil_L
+	bounds: 2033, 419, 13, 15
+1_pupil_R
+	bounds: 658, 2, 25, 24
+	rotate: 90
+1_white_L
+	bounds: 2027, 1716, 14, 15
+1_white_R
+	bounds: 1307, 102, 39, 30
+2_blik_L
+	bounds: 2037, 1205, 8, 9
+	rotate: 90
+2_blik_R
+	bounds: 1749, 2, 10, 11
+	rotate: 90
+2_lips_down
+	bounds: 1348, 102, 30, 34
+	rotate: 90
+2_lips_up
+	bounds: 684, 4, 46, 23
+2_pupil_L
+	bounds: 1749, 14, 14, 14
+2_pupil_R
+	bounds: 2022, 1215, 23, 22
+2_pussy_down
+	bounds: 1916, 46, 133, 118
+	rotate: 90
+2_pussy_up
+	bounds: 1905, 462, 96, 135
+	rotate: 90
+2_pussy_whole
+	bounds: 1912, 762, 133, 200
+balls
+	bounds: 276, 14, 180, 81
+bg_1
+	bounds: 2, 964, 1922, 1082
+bg_2
+	bounds: 2, 97, 842, 865
+body
+	bounds: 1168, 633, 354, 329
+body_down
+	bounds: 1386, 156, 323, 192
+	rotate: 90
+boob_L_ver2
+	bounds: 1598, 429, 235, 305
+	rotate: 90
+boob_R_ver2
+	bounds: 1580, 177, 250, 300
+	rotate: 90
+butt_L
+	bounds: 846, 131, 299, 387
+butt_R
+	bounds: 1524, 666, 296, 386
+	rotate: 90
+cum_1
+	bounds: 1926, 1604, 99, 191
+cum_10
+	bounds: 1926, 1404, 47, 198
+cum_11
+	bounds: 1916, 8, 36, 130
+	rotate: 90
+cum_12
+	bounds: 1668, 13, 15, 33
+	rotate: 90
+cum_13
+	bounds: 1001, 2, 22, 14
+	rotate: 90
+cum_14
+	bounds: 978, 2, 22, 21
+	rotate: 90
+cum_15
+	bounds: 1981, 1293, 51, 61
+cum_2
+	bounds: 1984, 1215, 76, 36
+	rotate: 90
+cum_3
+	bounds: 1926, 1081, 102, 99
+	rotate: 90
+cum_4
+	bounds: 1975, 1407, 69, 65
+	rotate: 90
+cum_5
+	bounds: 595, 2, 25, 61
+	rotate: 90
+cum_6
+	bounds: 1703, 10, 18, 25
+	rotate: 90
+cum_7
+	bounds: 925, 2, 28, 16
+cum_8
+	bounds: 2027, 1760, 15, 35
+cum_9
+	bounds: 1580, 449, 16, 30
+dick
+	bounds: 1168, 481, 150, 428
+	rotate: 90
+ear
+	bounds: 1926, 1185, 56, 106
+hair_1
+	bounds: 1075, 30, 50, 48
+hair_2
+	bounds: 2, 11, 84, 272
+	rotate: 90
+hair_4
+	bounds: 846, 520, 320, 442
+hand_L_2
+	bounds: 1926, 1797, 116, 249
+hand_L_3
+	bounds: 1386, 3, 151, 186
+	rotate: 90
+hand_R_1_SH
+	bounds: 1580, 30, 334, 145
+hand_R_2
+	bounds: 1882, 181, 246, 149
+	rotate: 90
+neck
+	bounds: 1926, 1003, 87, 76
+nose_patch
+	bounds: 1983, 964, 37, 54
+	rotate: 90
+promez
+	bounds: 1147, 134, 237, 345
+pussy_close
+	bounds: 1912, 560, 133, 200
+pussy_left
+	bounds: 595, 29, 66, 138
+	rotate: 90
+pussy_right
+	bounds: 1975, 1478, 64, 124
+sperma_1
+	bounds: 735, 7, 88, 103
+	rotate: 90
+sperma_10
+	bounds: 925, 20, 60, 41
+	rotate: 90
+sperma_11
+	bounds: 1981, 1356, 49, 65
+	rotate: 90
+sperma_12
+	bounds: 846, 82, 47, 99
+	rotate: 90
+sperma_13
+	bounds: 1984, 1185, 28, 51
+	rotate: 90
+sperma_14
+	bounds: 955, 2, 21, 16
+sperma_15
+	bounds: 1638, 5, 28, 23
+sperma_16
+	bounds: 1574, 2, 39, 26
+sperma_17
+	bounds: 1269, 98, 36, 34
+sperma_18
+	bounds: 1044, 80, 49, 79
+	rotate: 90
+sperma_19
+	bounds: 947, 83, 46, 95
+	rotate: 90
+sperma_2
+	bounds: 2009, 436, 29, 24
+sperma_20
+	bounds: 968, 26, 46, 55
+sperma_3
+	bounds: 458, 3, 135, 92
+sperma_4
+	bounds: 1730, 10, 17, 18
+sperma_5
+	bounds: 1127, 48, 32, 37
+sperma_6
+	bounds: 840, 16, 64, 83
+	rotate: 90
+sperma_7
+	bounds: 1127, 28, 29, 18
+sperma_8
+	bounds: 1926, 1293, 109, 53
+	rotate: 90
+sperma_9
+	bounds: 1225, 93, 39, 42
+	rotate: 90
+
+pose_03_2.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+face
+	bounds: 490, 668, 203, 207
+hair_3
+	bounds: 2, 18, 142, 196
+	rotate: 90
+hand_L_1
+	bounds: 2, 162, 186, 287
+hand_L_1_SH
+	bounds: 190, 162, 186, 287
+hand_R_1_ver2
+	bounds: 384, 877, 334, 145
+hand_R_3
+	bounds: 200, 14, 146, 162
+	rotate: 90
+leg_L_1
+	bounds: 2, 451, 285, 202
+leg_L_2
+	bounds: 720, 847, 175, 302
+	rotate: 90
+leg_R_1
+	bounds: 2, 655, 287, 218
+leg_R_2
+	bounds: 291, 617, 197, 256
+man_body
+	bounds: 2, 875, 380, 147
+pussy_open
+	bounds: 289, 482, 133, 200
+	rotate: 90

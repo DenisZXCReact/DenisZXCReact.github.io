@@ -1,0 +1,85 @@
+block_3_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_eye_closed_L_1
+	bounds: 1614, 1984, 48, 32
+1_eye_closed_L_2
+	bounds: 618, 1213, 48, 20
+1_eye_closed_R_1
+	bounds: 1677, 2019, 48, 27
+1_eye_closed_R_2
+	bounds: 669, 1252, 49, 19
+1_eyebrow_L
+	bounds: 407, 1038, 49, 36
+1_eyebrow_R
+	bounds: 818, 1284, 51, 40
+1_eyebrow_center
+	bounds: 458, 1039, 12, 19
+	rotate: 90
+1_eyelashes_L
+	bounds: 360, 274, 42, 21
+	rotate: 90
+1_eyelashes_R
+	bounds: 1083, 1657, 43, 18
+1_eyelid_L
+	bounds: 1083, 1715, 51, 39
+1_eyelid_R
+	bounds: 191, 131, 48, 36
+1_face
+	bounds: 2, 169, 177, 206
+1_lips
+	bounds: 1614, 2018, 61, 28
+1_pupil_L
+	bounds: 720, 1255, 23, 16
+1_pupil_R
+	bounds: 191, 92, 22, 16
+1_white_L
+	bounds: 407, 989, 36, 15
+1_white_R
+	bounds: 1727, 2031, 34, 15
+2_eyebrow_R
+	bounds: 618, 1235, 49, 36
+2_eyeclosed_L_1
+	bounds: 1136, 1725, 52, 29
+2_eyeclosed_L_2
+	bounds: 191, 110, 47, 19
+2_eyeclosed_R_1
+	bounds: 407, 1006, 46, 30
+2_eyeclosed_R_2
+	bounds: 458, 1053, 50, 21
+2_eyelashes_L
+	bounds: 918, 1302, 41, 22
+2_eyelashes_R
+	bounds: 241, 144, 41, 23
+2_eyelid_L
+	bounds: 871, 1286, 45, 38
+2_eyelid_R
+	bounds: 1083, 1677, 46, 36
+2_face
+	bounds: 181, 169, 177, 206
+2_lips
+	bounds: 360, 318, 57, 27
+	rotate: 90
+2_pupil_L
+	bounds: 618, 1191, 21, 20
+2_pupil_R
+	bounds: 510, 1053, 21, 21
+2_white_L
+	bounds: 1614, 1963, 37, 19
+2_white_R
+	bounds: 1190, 1734, 38, 20
+body_1
+	bounds: 2, 377, 398, 599
+body_2
+	bounds: 818, 1326, 263, 720
+hair
+	bounds: 407, 1076, 209, 195
+hands
+	bounds: 1083, 1756, 529, 290
+legs
+	bounds: 2, 978, 403, 1068
+pants_1
+	bounds: 2, 2, 165, 187
+	rotate: 90
+plach_back
+	bounds: 407, 1273, 409, 773

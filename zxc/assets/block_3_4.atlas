@@ -1,0 +1,106 @@
+block_3_4.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+1_eye_closed_L
+	bounds: 158, 515, 52, 32
+1_eye_closed_L2
+	bounds: 2015, 1943, 46, 19
+	rotate: 90
+1_eye_closed_R
+	bounds: 219, 563, 55, 28
+1_eye_closed_R2
+	bounds: 2, 2, 49, 16
+1_eye_lashes_L
+	bounds: 607, 1626, 42, 21
+	rotate: 90
+1_eye_lashes_R
+	bounds: 630, 1626, 42, 21
+	rotate: 90
+1_eye_lid_L
+	bounds: 362, 1124, 47, 36
+1_eye_lid_R
+	bounds: 313, 1121, 47, 39
+1_eyebrow_L
+	bounds: 158, 549, 59, 42
+1_eyebrow_R
+	bounds: 250, 1081, 58, 33
+1_lips
+	bounds: 250, 1116, 61, 44
+1_pupil_L
+	bounds: 2015, 1879, 23, 19
+	rotate: 90
+1_pupil_R
+	bounds: 1207, 1729, 28, 18
+1_white_L
+	bounds: 457, 1123, 37, 19
+	rotate: 90
+1_white_R
+	bounds: 2015, 1904, 37, 19
+	rotate: 90
+2_eye_closed_L
+	bounds: 1106, 1719, 52, 28
+2_eye_closed_L2
+	bounds: 1160, 1728, 45, 19
+2_eye_closed_R
+	bounds: 2015, 1991, 55, 29
+	rotate: 90
+2_eye_closed_R2
+	bounds: 718, 1685, 45, 18
+2_eyebrow_L
+	bounds: 1041, 1712, 63, 35
+2_eyebrow_R
+	bounds: 607, 1670, 63, 33
+2_eyelashes_L
+	bounds: 672, 1680, 44, 23
+2_eyelashes_R
+	bounds: 1897, 1712, 44, 23
+2_eyelid_L
+	bounds: 411, 1123, 44, 37
+2_eyelid_R
+	bounds: 158, 475, 45, 38
+2_lips
+	bounds: 1831, 1703, 64, 32
+2_pupil_L
+	bounds: 2009, 1715, 22, 20
+2_pupil_R
+	bounds: 1984, 1715, 23, 20
+2_white_L
+	bounds: 276, 571, 39, 20
+2_white_R
+	bounds: 1943, 1715, 39, 20
+body_1
+	bounds: 607, 1705, 432, 341
+body_2
+	bounds: 1041, 1749, 365, 297
+boobs
+	bounds: 2, 1626, 603, 420
+face
+	bounds: 1831, 1842, 182, 204
+hair_1
+	bounds: 480, 1359, 166, 265
+hair_back
+	bounds: 1408, 1837, 209, 421
+	rotate: 90
+hand_L_1
+	bounds: 1628, 1697, 201, 138
+hand_L_2
+	bounds: 158, 800, 157, 264
+hand_L_3
+	bounds: 158, 593, 159, 205
+hand_R_1
+	bounds: 480, 1169, 188, 151
+	rotate: 90
+hand_R_3
+	bounds: 1831, 1737, 103, 199
+	rotate: 90
+leg_L_1
+	bounds: 2, 462, 154, 602
+leg_L_2
+	bounds: 250, 1162, 228, 462
+leg_R_1
+	bounds: 2, 20, 173, 440
+leg_R_2
+	bounds: 1408, 1703, 132, 218
+	rotate: 90
+leg_R_3
+	bounds: 2, 1066, 246, 558
