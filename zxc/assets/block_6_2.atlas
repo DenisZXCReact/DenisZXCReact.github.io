@@ -1,0 +1,17 @@
+block_6_2.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+backpack
+	bounds: 2, 2, 206, 325
+body
+	bounds: 260, 546, 336, 375
+hat
+	bounds: 260, 437, 189, 107
+leg_L_1
+	bounds: 598, 351, 135, 570
+leg_L_2
+	bounds: 2, 329, 127, 592
+leg_R_1
+	bounds: 131, 329, 127, 592
+leg_R_2
+	bounds: 735, 351, 111, 570

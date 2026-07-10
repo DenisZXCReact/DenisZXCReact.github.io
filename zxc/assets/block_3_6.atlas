@@ -1,95 +1,42 @@
 block_3_6.webp
 	size: 2048, 2048
 	filter: Linear, Linear
-2_hair_1
-	bounds: 722, 1075, 136, 216
-2_hair_back
-	bounds: 471, 950, 249, 341
-2_lips_1
-	bounds: 1358, 1439, 68, 37
+bg
+	bounds: 2, 966, 1920, 1080
+boot_L
+	bounds: 1384, 75, 398, 322
+eye_L
+	bounds: 2021, 1995, 51, 25
 	rotate: 90
-2_lips_2
-	bounds: 1482, 1716, 61, 31
-2_lips_3
-	bounds: 236, 918, 68, 18
-2_lips_4
-	bounds: 1397, 1462, 45, 21
-	rotate: 90
-body
-	bounds: 471, 1293, 398, 753
-boobs
-	bounds: 871, 1715, 609, 331
-cum_1
-	bounds: 1089, 1304, 45, 59
-	rotate: 90
-cum_10
-	bounds: 2, 4, 11, 23
-	rotate: 90
-cum_2
-	bounds: 1969, 1962, 84, 61
-	rotate: 90
-cum_3
-	bounds: 1089, 1351, 61, 62
-cum_4
-	bounds: 1152, 1358, 53, 55
-cum_5
-	bounds: 1969, 1854, 48, 54
-cum_6
-	bounds: 1358, 1562, 114, 151
-cum_7
-	bounds: 722, 967, 99, 106
-cum_8
-	bounds: 722, 954, 11, 21
-	rotate: 90
-cum_9
-	bounds: 471, 938, 10, 17
-	rotate: 90
+eye_R
+	bounds: 1724, 425, 71, 31
 eye_closed_L
-	bounds: 2019, 1856, 52, 27
-	rotate: 90
+	bounds: 570, 144, 55, 34
 eye_closed_R
-	bounds: 1207, 1385, 55, 28
-eyebrow_L
-	bounds: 1358, 1509, 63, 51
-eyebrow_R
-	bounds: 1969, 1910, 59, 50
-eyelashes_L
-	bounds: 1969, 1831, 42, 21
-eyelashes_R
-	bounds: 1545, 1726, 42, 21
-eyelid_L
-	bounds: 1423, 1524, 47, 36
-eyelid_R
-	bounds: 212, 877, 47, 39
-face
-	bounds: 2, 17, 177, 215
-	rotate: 90
-hair
-	bounds: 2, 196, 208, 300
-hair_2
-	bounds: 871, 1300, 113, 216
-	rotate: 90
-hair_back
-	bounds: 2, 498, 208, 418
+	bounds: 1924, 2009, 95, 37
 hand_L
-	bounds: 1482, 1749, 297, 485
+	bounds: 2, 17, 161, 486
 	rotate: 90
 hand_R
-	bounds: 871, 1415, 298, 485
-	rotate: 90
-leg_L
-	bounds: 2, 918, 232, 1128
-leg_R
-	bounds: 236, 938, 233, 1108
+	bounds: 1384, 399, 254, 565
 lips
-	bounds: 823, 1012, 61, 31
+	bounds: 1640, 399, 82, 57
+neck
+	bounds: 1640, 458, 252, 506
+pants
+	bounds: 2, 180, 784, 1380
 	rotate: 90
-pupil_L
-	bounds: 212, 856, 23, 19
-pupil_R
-	bounds: 306, 918, 28, 18
-white_L
-	bounds: 1358, 1418, 37, 19
-white_R
-	bounds: 823, 973, 37, 19
-	rotate: 90
+veko_L
+	bounds: 490, 97, 52, 39
+veko_R
+	bounds: 490, 138, 78, 40
+
+block_3_6_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+boot_R
+	bounds: 896, 1272, 393, 325
+face
+	bounds: 2, 2, 367, 442
+shirt
+	bounds: 2, 446, 892, 1151

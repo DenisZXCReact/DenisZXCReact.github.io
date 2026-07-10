@@ -1,0 +1,47 @@
+block_4_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+eye_L
+	bounds: 1313, 1865, 56, 27
+eye_R
+	bounds: 1117, 1706, 57, 27
+	rotate: 90
+eye_closed_L
+	bounds: 415, 492, 62, 33
+eye_closed_R
+	bounds: 181, 149, 60, 28
+	rotate: 90
+eyebrow_L
+	bounds: 575, 1329, 80, 34
+eyebrow_R
+	bounds: 1500, 2011, 79, 34
+hair
+	bounds: 575, 1365, 255, 242
+hand_L_0
+	bounds: 228, 261, 185, 264
+hand_L_1
+	bounds: 1157, 1894, 151, 341
+	rotate: 90
+hand_L_2
+	bounds: 939, 1605, 176, 158
+hand_R
+	bounds: 1157, 1772, 154, 120
+hand_R_0
+	bounds: 939, 1765, 216, 280
+hand_R_1
+	bounds: 575, 1609, 362, 436
+head
+	bounds: 2, 211, 224, 314
+lips
+	bounds: 529, 1170, 81, 42
+	rotate: 90
+neck
+	bounds: 2, 2, 177, 207
+pants
+	bounds: 2, 1253, 571, 792
+shirt
+	bounds: 2, 527, 525, 724
+veko_L
+	bounds: 832, 1573, 54, 34
+veko_R
+	bounds: 228, 219, 61, 40

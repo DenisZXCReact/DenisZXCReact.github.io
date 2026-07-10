@@ -1,99 +1,57 @@
 block_3_2.webp
 	size: 2048, 2048
 	filter: Linear, Linear
-1_eye_closed_L_1
-	bounds: 881, 1287, 48, 23
-1_eye_closed_L_2
-	bounds: 1999, 2005, 47, 41
-1_eye_closed_R_1
-	bounds: 790, 1220, 51, 23
+boots
+	bounds: 2, 47, 674, 474
+eye
+	bounds: 1777, 391, 95, 74
+eye_closed
+	bounds: 1671, 389, 104, 76
+grass_1
+	bounds: 1310, 377, 403, 359
 	rotate: 90
-1_eye_closed_R_2
-	bounds: 723, 1100, 51, 32
-1_eyebrow_L
-	bounds: 1070, 1572, 50, 21
-1_eyebrow_R
-	bounds: 336, 140, 48, 32
-1_eyelashes_L
-	bounds: 610, 1060, 42, 21
-1_eyelashes_R
-	bounds: 1214, 1790, 41, 21
-1_eyelid_L
-	bounds: 1018, 1519, 43, 36
-1_eyelid_R
-	bounds: 336, 174, 51, 39
-1_face
-	bounds: 1583, 1869, 177, 206
+grass_2
+	bounds: 1250, 175, 392, 200
+grass_3
+	bounds: 1071, 172, 349, 177
 	rotate: 90
-1_lips
-	bounds: 818, 1282, 61, 28
-1_pupil_L
-	bounds: 931, 1295, 18, 15
-1_pupil_R
-	bounds: 790, 1203, 20, 15
-1_white_L
-	bounds: 723, 1083, 34, 15
-1_white_R
-	bounds: 407, 978, 36, 15
-2_eye_closed_L_1
-	bounds: 1161, 1777, 51, 30
-2_eye_closed_L_2
-	bounds: 1999, 1972, 47, 31
-2_eye_closed_R_1
-	bounds: 1999, 1910, 47, 27
-2_eye_closed_R_2
-	bounds: 1999, 1939, 47, 31
-2_eyebrow_L
-	bounds: 1018, 1557, 50, 36
-2_eyebrow_R
-	bounds: 1161, 1809, 51, 40
-2_eyebrow_center
-	bounds: 776, 1113, 12, 19
-2_eyelashes_L
-	bounds: 1161, 1753, 41, 22
-2_eyelashes_R
-	bounds: 551, 1029, 41, 23
-2_eyelid_L
-	bounds: 1999, 1870, 45, 38
-2_eyelid_R
-	bounds: 1214, 1813, 45, 36
-2_face
-	bounds: 1791, 1869, 177, 206
+grass_4
+	bounds: 1679, 992, 440, 179
 	rotate: 90
-2_lips
-	bounds: 551, 1054, 57, 27
-2_pupil_L
-	bounds: 336, 123, 21, 15
-2_pupil_R
-	bounds: 1018, 1501, 20, 16
-2_white_L
-	bounds: 402, 960, 34, 16
-2_white_R
-	bounds: 1261, 1831, 35, 18
-dum_body
-	bounds: 2, 15, 332, 401
-dum_hand_R_1
-	bounds: 407, 995, 142, 86
-dum_hand_R_2
-	bounds: 407, 1083, 188, 314
+hand_L
+	bounds: 1310, 782, 367, 650
+hand_R
+	bounds: 2, 523, 1261, 1509
+head
+	bounds: 1310, 1434, 543, 598
+neck
+	bounds: 678, 98, 391, 423
+r_Leg_L
+	bounds: 1679, 648, 297, 342
+r_ear
+	bounds: 1671, 467, 179, 277
 	rotate: 90
-hair
-	bounds: 1161, 1851, 209, 195
-hand_L_1
-	bounds: 1018, 1595, 139, 118
-hand_L_2
-	bounds: 1372, 1857, 209, 189
-hand_L_3
-	bounds: 1018, 1715, 141, 331
-hand_R_1
-	bounds: 336, 215, 64, 201
-hand_R_2
-	bounds: 723, 1134, 65, 137
-legs
-	bounds: 2, 978, 403, 1068
-plach_back
-	bounds: 407, 1273, 409, 773
-tors_1
-	bounds: 2, 418, 398, 558
-tors_2
-	bounds: 818, 1312, 198, 734
+r_eye_closed
+	bounds: 1071, 101, 86, 69
+r_tail
+	bounds: 1855, 1435, 160, 133
+rabbit_leg
+	bounds: 1855, 1570, 177, 462
+rope
+	bounds: 1265, 399, 1633, 43
+	rotate: 90
+
+block_3_2_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+body
+	bounds: 2, 349, 963, 1422
+pants
+	bounds: 967, 444, 1327, 804
+	rotate: 90
+
+block_3_2_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+rabbit
+	bounds: 2, 2, 938, 1080

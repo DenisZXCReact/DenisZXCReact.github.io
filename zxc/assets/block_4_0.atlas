@@ -1,0 +1,278 @@
+block_4_0.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg
+	bounds: 2, 842, 1922, 1082
+bg_00
+	bounds: 2, 674, 272, 166
+bg_01
+	bounds: 2, 506, 272, 166
+bg_02
+	bounds: 276, 674, 272, 166
+bg_03
+	bounds: 2, 338, 272, 166
+bg_04
+	bounds: 276, 506, 272, 166
+bg_05
+	bounds: 550, 674, 272, 166
+bg_06
+	bounds: 2, 170, 272, 166
+bg_07
+	bounds: 276, 338, 272, 166
+bg_08
+	bounds: 550, 506, 272, 166
+bg_09
+	bounds: 824, 674, 272, 166
+bg_10
+	bounds: 2, 2, 272, 166
+bg_11
+	bounds: 276, 170, 272, 166
+bg_12
+	bounds: 550, 338, 272, 166
+bg_13
+	bounds: 824, 506, 272, 166
+bg_14
+	bounds: 1098, 674, 272, 166
+bg_15
+	bounds: 276, 2, 272, 166
+bg_16
+	bounds: 550, 170, 272, 166
+bg_17
+	bounds: 824, 338, 272, 166
+bg_18
+	bounds: 1098, 506, 272, 166
+bg_19
+	bounds: 1372, 674, 272, 166
+bg_20
+	bounds: 550, 2, 272, 166
+bg_21
+	bounds: 824, 170, 272, 166
+bg_22
+	bounds: 1098, 338, 272, 166
+bg_23
+	bounds: 1372, 506, 272, 166
+bg_24
+	bounds: 1646, 674, 272, 166
+bg_25
+	bounds: 824, 2, 272, 166
+bg_26
+	bounds: 1098, 170, 272, 166
+bg_27
+	bounds: 1372, 338, 272, 166
+bg_28
+	bounds: 1646, 506, 272, 166
+bg_29
+	bounds: 1098, 2, 272, 166
+bg_30
+	bounds: 1372, 170, 272, 166
+bg_31
+	bounds: 1646, 338, 272, 166
+bg_32
+	bounds: 1372, 2, 272, 166
+bg_33
+	bounds: 1646, 170, 272, 166
+bg_34
+	bounds: 1646, 2, 272, 166
+
+block_4_0_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+bg_35
+	bounds: 2, 700, 272, 166
+bg_36
+	bounds: 1384, 1784, 272, 166
+bg_37
+	bounds: 2, 532, 272, 166
+bg_38
+	bounds: 276, 700, 272, 166
+bg_39
+	bounds: 1384, 1616, 272, 166
+bg_40
+	bounds: 1658, 1784, 272, 166
+bg_41
+	bounds: 2, 364, 272, 166
+bg_42
+	bounds: 276, 532, 272, 166
+bg_43
+	bounds: 550, 700, 272, 166
+bg_44
+	bounds: 1384, 1448, 272, 166
+bg_45
+	bounds: 1658, 1616, 272, 166
+bg_46
+	bounds: 2, 196, 272, 166
+bg_47
+	bounds: 276, 364, 272, 166
+bg_48
+	bounds: 550, 532, 272, 166
+bg_49
+	bounds: 824, 700, 272, 166
+bg_50
+	bounds: 1384, 1280, 272, 166
+bg_51
+	bounds: 1658, 1448, 272, 166
+bg_52
+	bounds: 2, 28, 272, 166
+bg_53
+	bounds: 276, 196, 272, 166
+bg_54
+	bounds: 550, 364, 272, 166
+bg_55
+	bounds: 824, 532, 272, 166
+bg_56
+	bounds: 1098, 700, 272, 166
+bg_57
+	bounds: 1384, 1112, 272, 166
+bg_58
+	bounds: 1658, 1280, 272, 166
+bg_59
+	bounds: 276, 28, 272, 166
+bg_60
+	bounds: 550, 196, 272, 166
+bg_61
+	bounds: 824, 364, 272, 166
+bg_62
+	bounds: 1098, 532, 272, 166
+bg_63
+	bounds: 1384, 944, 272, 166
+bg_64
+	bounds: 1658, 1112, 272, 166
+bg_65
+	bounds: 550, 28, 272, 166
+bg_66
+	bounds: 824, 196, 272, 166
+bg_67
+	bounds: 1098, 364, 272, 166
+bg_68
+	bounds: 1658, 944, 272, 166
+bg_69
+	bounds: 824, 28, 272, 166
+bg_70
+	bounds: 1098, 196, 272, 166
+bg_71
+	bounds: 1098, 28, 272, 166
+door
+	bounds: 2, 868, 1380, 1082
+magic_86400
+	bounds: 1384, 787, 258, 155
+magic_86401
+	bounds: 1644, 787, 258, 155
+magic_86402
+	bounds: 1372, 630, 258, 155
+magic_86403
+	bounds: 1372, 473, 258, 155
+magic_86404
+	bounds: 1632, 630, 258, 155
+magic_86405
+	bounds: 1372, 316, 258, 155
+magic_86406
+	bounds: 1632, 473, 258, 155
+magic_86407
+	bounds: 1372, 159, 258, 155
+magic_86408
+	bounds: 1632, 316, 258, 155
+magic_86409
+	bounds: 1632, 159, 258, 155
+magic_86410
+	bounds: 1372, 2, 258, 155
+magic_86411
+	bounds: 1632, 2, 258, 155
+
+block_4_0_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+magic_86412
+	bounds: 2, 1822, 258, 155
+magic_86413
+	bounds: 2, 1665, 258, 155
+magic_86414
+	bounds: 262, 1822, 258, 155
+magic_86415
+	bounds: 2, 1508, 258, 155
+magic_86416
+	bounds: 262, 1665, 258, 155
+magic_86417
+	bounds: 522, 1822, 258, 155
+magic_86418
+	bounds: 2, 1351, 258, 155
+magic_86419
+	bounds: 262, 1508, 258, 155
+magic_86420
+	bounds: 522, 1665, 258, 155
+magic_86421
+	bounds: 782, 1822, 258, 155
+magic_86422
+	bounds: 2, 1194, 258, 155
+magic_86423
+	bounds: 262, 1351, 258, 155
+magic_86424
+	bounds: 522, 1508, 258, 155
+magic_86425
+	bounds: 782, 1665, 258, 155
+magic_86426
+	bounds: 1042, 1822, 258, 155
+magic_86427
+	bounds: 2, 1037, 258, 155
+magic_86428
+	bounds: 262, 1194, 258, 155
+magic_86429
+	bounds: 522, 1351, 258, 155
+magic_86430
+	bounds: 782, 1508, 258, 155
+magic_86431
+	bounds: 1042, 1665, 258, 155
+magic_86432
+	bounds: 1302, 1822, 258, 155
+magic_86433
+	bounds: 2, 880, 258, 155
+magic_86434
+	bounds: 262, 1037, 258, 155
+magic_86435
+	bounds: 522, 1194, 258, 155
+magic_86436
+	bounds: 782, 1351, 258, 155
+magic_86437
+	bounds: 1042, 1508, 258, 155
+magic_86438
+	bounds: 1302, 1665, 258, 155
+magic_86439
+	bounds: 1562, 1822, 258, 155
+magic_86440
+	bounds: 2, 723, 258, 155
+magic_86441
+	bounds: 262, 880, 258, 155
+magic_86442
+	bounds: 522, 1037, 258, 155
+magic_86443
+	bounds: 782, 1194, 258, 155
+magic_86444
+	bounds: 1042, 1351, 258, 155
+magic_86445
+	bounds: 1302, 1508, 258, 155
+magic_86446
+	bounds: 1562, 1665, 258, 155
+magic_86447
+	bounds: 1822, 1719, 258, 155
+	rotate: 90
+magic_86448
+	bounds: 2, 566, 258, 155
+magic_86449
+	bounds: 262, 723, 258, 155
+magic_86450
+	bounds: 522, 880, 258, 155
+magic_86451
+	bounds: 782, 1037, 258, 155
+magic_86452
+	bounds: 1042, 1194, 258, 155
+magic_86453
+	bounds: 1302, 1351, 258, 155
+magic_86454
+	bounds: 1562, 1508, 258, 155
+magic_86455
+	bounds: 2, 409, 258, 155
+magic_86456
+	bounds: 262, 566, 258, 155
+magic_86457
+	bounds: 522, 723, 258, 155
+magic_86458
+	bounds: 782, 880, 258, 155
