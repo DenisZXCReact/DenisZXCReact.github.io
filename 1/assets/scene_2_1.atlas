@@ -1,0 +1,101 @@
+scene_2_1.webp
+size:5384,1090
+filter:Linear,Linear
+Layer1
+bounds:3217,357,36,20
+offsets:2,2,40,24
+Layer2
+bounds:3185,356,30,21
+offsets:2,2,34,25
+a10
+bounds:2699,349,484,739
+offsets:2,2,488,743
+a12
+bounds:2206,339,491,749
+offsets:2,2,495,753
+a13
+bounds:4697,89,497,664
+offsets:2,2,501,668
+rotate:90
+a14
+bounds:4697,588,500,685
+offsets:2,2,504,689
+rotate:90
+a15
+bounds:3687,384,502,704
+offsets:2,2,506,708
+a16
+bounds:4191,386,504,702
+offsets:2,2,508,706
+a17
+bounds:3185,379,500,709
+offsets:2,2,504,713
+aaa
+bounds:1924,148,940,280
+offsets:2,2,944,284
+rotate:90
+assesories
+bounds:2103,2,52,83
+offsets:2,2,56,87
+rotate:90
+assesories1
+bounds:1924,14,43,132
+offsets:2,2,47,136
+bbb
+bounds:2,8,1920,1080
+offsets:2,2,1924,1084
+belok left
+bounds:2016,2,85,45
+offsets:2,0,90,48
+belok right
+bounds:2053,56,90,50
+offsets:2,0,95,51
+rotate:90
+brow left
+bounds:2226,16,65,23
+offsets:2,2,69,27
+rotate:90
+brow right
+bounds:2016,49,97,35
+offsets:2,2,101,39
+rotate:90
+closed veko left
+bounds:2145,71,75,34
+offsets:0,1,75,38
+rotate:90
+closed veko right
+bounds:2188,3,70,36
+offsets:2,0,72,36
+rotate:90
+face
+bounds:4036,69,313,384
+offsets:2,3,317,389
+rotate:90
+hair
+bounds:2213,83,254,608
+offsets:4,3,260,613
+rotate:90
+hair 1
+bounds:4422,217,167,233
+offsets:2,2,171,237
+rotate:90
+hair 31
+bounds:3440,4,151,373
+offsets:2,2,155,377
+lips
+bounds:1969,16,130,45
+offsets:2,3,135,50
+rotate:90
+nesk
+bounds:3593,22,441,355
+offsets:2,6,445,363
+Слой 1
+bounds:2823,6,341,615
+offsets:2,2,345,619
+rotate:90
+ресницы верх
+bounds:2105,68,78,38
+rotate:90
+ресницы верх-1
+bounds:2181,75,71,30
+rotate:90

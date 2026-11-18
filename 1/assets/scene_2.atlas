@@ -1,0 +1,236 @@
+scene_2.webp
+size:7376,1106
+filter:Linear,Linear
+11belok left
+bounds:7236,80,15,10
+offsets:2,2,19,14
+rotate:90
+11belok right
+bounds:4357,2,16,9
+offsets:2,2,20,13
+11brow left
+bounds:5864,257,20,8
+offsets:2,2,24,12
+rotate:90
+11brow right
+bounds:4302,2,27,9
+offsets:2,2,31,13
+11brush left
+bounds:7304,12,54,66
+offsets:2,2,58,70
+11brush right
+bounds:7153,22,73,81
+rotate:90
+11forearm left
+bounds:5298,84,81,136
+offsets:2,2,85,140
+rotate:90
+11forearm right
+bounds:7119,97,139,86
+offsets:2,2,143,90
+11hair
+bounds:5436,84,81,116
+rotate:90
+11hat
+bounds:6307,5,167,72
+offsets:2,2,171,76
+11legs
+bounds:5942,257,376,329
+rotate:90
+11lips
+bounds:4331,2,24,9
+offsets:2,2,28,13
+11nesk
+bounds:5416,17,65,92
+rotate:90
+11pupil left
+bounds:6104,635,9,6
+offsets:2,2,13,10
+11pupil right
+bounds:6273,257,8,5
+offsets:2,2,12,9
+11raincoat
+bounds:5849,15,227,240
+11shadow
+bounds:6771,59,151,38
+offsets:2,2,155,42
+11tors
+bounds:6604,387,262,291
+rotate:90
+11upper arm left
+bounds:5180,48,116,117
+offsets:2,2,120,121
+11upper arm right
+bounds:6947,115,80,170
+offsets:2,2,84,174
+rotate:90
+11veko closed left
+bounds:6589,244,18,12
+rotate:90
+11veko closed right
+bounds:5849,257,20,13
+rotate:90
+a10
+bounds:7091,625,180,276
+offsets:2,2,184,280
+rotate:90
+a12
+bounds:6307,79,183,280
+offsets:2,2,187,284
+rotate:90
+a13
+bounds:7126,185,186,249
+offsets:2,2,190,253
+a14
+bounds:6868,197,187,256
+offsets:2,2,191,260
+rotate:90
+a15
+bounds:6897,386,188,263
+offsets:2,2,192,267
+a16
+bounds:6603,197,188,263
+offsets:2,2,192,267
+rotate:90
+a17
+bounds:7087,436,187,266
+offsets:2,2,191,270
+rotate:90
+belok left
+bounds:7362,1067,16,12
+offsets:2,2,20,16
+rotate:90
+belok right
+bounds:7069,97,16,11
+offsets:2,2,20,15
+rotate:90
+bg
+bounds:2,24,1920,1080
+offsets:2,2,1924,1084
+bg1
+bounds:1924,24,1920,1080
+offsets:2,2,1924,1084
+brow left
+bounds:7362,1085,19,12
+offsets:2,2,23,16
+rotate:90
+brow right
+bounds:7314,185,25,13
+offsets:2,2,29,17
+brush left
+bounds:7236,22,56,66
+offsets:2,2,60,70
+rotate:90
+brush right
+bounds:7069,21,74,82
+rotate:90
+eev
+bounds:3846,446,379,658
+offsets:2,2,383,662
+evsv
+bounds:6589,62,180,133
+offsets:2,2,184,137
+face
+bounds:7260,80,89,103
+offsets:2,2,93,107
+hair
+bounds:5298,33,49,116
+rotate:90
+hair1
+bounds:6947,25,88,120
+rotate:90
+hand left
+bounds:4933,3,156,204
+offsets:0,1,158,205
+rotate:90
+hand right
+bounds:4714,13,146,217
+offsets:0,1,146,218
+rotate:90
+hat
+bounds:6771,99,174,96
+offsets:2,2,178,100
+hat background
+bounds:7314,264,170,31
+offsets:2,2,174,35
+rotate:90
+legs
+bounds:6273,264,377,328
+offsets:0,0,379,329
+rotate:90
+lips
+bounds:2,2,20,18
+offsets:2,2,24,22
+rotate:90
+nesk
+bounds:6476,11,66,92
+rotate:90
+pupil left
+bounds:6115,635,8,6
+offsets:2,2,12,10
+pupil right
+bounds:4608,446,8,7
+offsets:2,2,12,11
+q1
+bounds:7314,200,59,62
+offsets:2,2,63,66
+q10
+bounds:4608,633,497,471
+offsets:2,2,501,475
+q11
+bounds:5608,635,494,469
+offsets:2,2,498,473
+q12
+bounds:5161,167,392,466
+offsets:2,2,396,470
+q2
+bounds:7091,807,297,269
+offsets:2,2,301,273
+rotate:90
+q3
+bounds:5555,279,385,354
+offsets:2,2,389,358
+q4
+bounds:4302,13,431,410
+offsets:2,2,435,414
+rotate:90
+q5
+bounds:3846,11,454,433
+offsets:2,2,458,437
+q6
+bounds:4714,161,470,445
+offsets:2,2,474,449
+rotate:90
+q7
+bounds:6604,651,485,453
+offsets:2,2,489,457
+q8
+bounds:6104,643,498,461
+offsets:2,2,502,465
+q9
+bounds:5107,635,499,469
+offsets:2,2,503,473
+qvsvqq
+bounds:4227,446,379,658
+offsets:2,2,383,662
+rain coat
+bounds:6078,15,227,240
+shadow
+bounds:5180,14,64,32
+offsets:2,2,68,36
+shadow 1
+bounds:5139,8,151,39
+offsets:2,2,155,43
+rotate:90
+tors
+bounds:5555,15,262,292
+rotate:90
+veko closed left
+bounds:7341,185,19,13
+veko closed right
+bounds:22,2,20,13
+rotate:90
+vsv
+bounds:4608,455,176,95
+offsets:2,2,180,99
+rotate:90
